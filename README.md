@@ -3,6 +3,10 @@
 
 
 
+<details>
+<summary>
+Clément's Contribution => Automatic KG generation with NLP
+</summary>
 
 ## Automatic Knowledge Graph Generation with NLP and Ontology Alignment
 
@@ -87,3 +91,6 @@ Future work could leverage:
 -   Named entity linking (NEL),
 -   Sentence embedding models (e.g., BERT, SBERT),
 -   Ontology alignment libraries like LOV, ELK, or OntoPortal.
+
+
+</details>
