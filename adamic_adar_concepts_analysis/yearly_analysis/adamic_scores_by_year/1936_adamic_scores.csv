@@ -1,0 +1,39 @@
+Concept1_ID,Concept1_Name,Concept2_ID,Concept2_Name,AdamicAdarScore
+C206040425,Amplitude damping channel,C124148022,Quantum circuit,0
+C206040425,Amplitude damping channel,C186468114,Quantum network,0
+C206040425,Amplitude damping channel,C169460222,Quantum logic,0
+C206040425,Amplitude damping channel,C95013731,Quantum metrology,0
+C206040425,Amplitude damping channel,C5320026,Quantum information science,0
+C206040425,Amplitude damping channel,C190463098,Quantum technology,0
+C206040425,Amplitude damping channel,C58849907,Quantum gate,0
+C206040425,Amplitude damping channel,C192353077,Adiabatic quantum computation,0
+C124148022,Quantum circuit,C169460222,Quantum logic,0
+C124148022,Quantum circuit,C95013731,Quantum metrology,0
+C124148022,Quantum circuit,C5320026,Quantum information science,0
+C124148022,Quantum circuit,C190463098,Quantum technology,0
+C124148022,Quantum circuit,C139356082,Quantum discord,0
+C124148022,Quantum circuit,C192353077,Adiabatic quantum computation,0
+C186468114,Quantum network,C169460222,Quantum logic,0
+C186468114,Quantum network,C95013731,Quantum metrology,0
+C186468114,Quantum network,C5320026,Quantum information science,0
+C186468114,Quantum network,C190463098,Quantum technology,0
+C186468114,Quantum network,C139356082,Quantum discord,0
+C186468114,Quantum network,C192353077,Adiabatic quantum computation,0
+C169460222,Quantum logic,C192353077,Adiabatic quantum computation,0
+C169460222,Quantum logic,C5320026,Quantum information science,0
+C169460222,Quantum logic,C139356082,Quantum discord,0
+C169460222,Quantum logic,C95013731,Quantum metrology,0
+C169460222,Quantum logic,C190463098,Quantum technology,0
+C169460222,Quantum logic,C58849907,Quantum gate,0
+C95013731,Quantum metrology,C192353077,Adiabatic quantum computation,0
+C95013731,Quantum metrology,C139356082,Quantum discord,0
+C95013731,Quantum metrology,C58849907,Quantum gate,0
+C5320026,Quantum information science,C192353077,Adiabatic quantum computation,0
+C5320026,Quantum information science,C139356082,Quantum discord,0
+C5320026,Quantum information science,C58849907,Quantum gate,0
+C190463098,Quantum technology,C192353077,Adiabatic quantum computation,0
+C190463098,Quantum technology,C139356082,Quantum discord,0
+C190463098,Quantum technology,C58849907,Quantum gate,0
+C58849907,Quantum gate,C192353077,Adiabatic quantum computation,0
+C58849907,Quantum gate,C139356082,Quantum discord,0
+C139356082,Quantum discord,C192353077,Adiabatic quantum computation,0

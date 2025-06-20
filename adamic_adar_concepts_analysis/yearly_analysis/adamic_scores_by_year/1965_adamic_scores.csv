@@ -1,0 +1,1145 @@
+Concept1_ID,Concept1_Name,Concept2_ID,Concept2_Name,AdamicAdarScore
+C124148022,Quantum circuit,C22984246,Quantum imaging,0.3898712452512801
+C124148022,Quantum circuit,C133976006,Noise spectral density,0.4170323914242463
+C124148022,Quantum circuit,C169460222,Quantum logic,0
+C124148022,Quantum circuit,C155194400,Spin Hall effect,0.3898712452512801
+C124148022,Quantum circuit,C12252657,Effective input noise temperature,0.4170323914242463
+C124148022,Quantum circuit,C142465778,Toffoli gate,0.6213349345596119
+C124148022,Quantum circuit,C158971709,Magnonics,0.3898712452512801
+C124148022,Quantum circuit,C92043244,Quantum complexity theory,0
+C124148022,Quantum circuit,C139356082,Quantum discord,0
+C124148022,Quantum circuit,C56049555,EXPTIME,0
+C124148022,Quantum circuit,C48415503,Time hierarchy theorem,0
+C124148022,Quantum circuit,C158456648,Cluster state,0
+C124148022,Quantum circuit,C172218469,Direct-coupled amplifier,0.4170323914242463
+C124148022,Quantum circuit,C95013731,Quantum metrology,0.3898712452512801
+C124148022,Quantum circuit,C5320026,Quantum information science,0.3898712452512801
+C124148022,Quantum circuit,C200717178,Mathematical formulation of quantum mechanics,0
+C124148022,Quantum circuit,C122806257,PH,0
+C124148022,Quantum circuit,C190463098,Quantum technology,0.3898712452512801
+C124148022,Quantum circuit,C71191651,Quantum nanoscience,0
+C124148022,Quantum circuit,C166576357,Y-factor,0.4170323914242463
+C124148022,Quantum circuit,C207046469,Interpretations of quantum mechanics,0
+C124148022,Quantum circuit,C155332784,Low-noise amplifier,0.4170323914242463
+C124148022,Quantum circuit,C90408235,Quantum annealing,0
+C124148022,Quantum circuit,C187486625,Quantum channel,0.3898712452512801
+C124148022,Quantum circuit,C39197057,Magnetic flux quantum,0
+C124148022,Quantum circuit,C89143813,Quantum sensor,0.3898712452512801
+C124148022,Quantum circuit,C168090291,Classical capacity,0.3898712452512801
+C124148022,Quantum circuit,C109546105,Flux qubit,0
+C124148022,Quantum circuit,C11255438,Quantum process,0
+C124148022,Quantum circuit,C165973109,Quantum probability,0
+C124148022,Quantum circuit,C164215192,Asymptotic computational complexity,0
+C124148022,Quantum circuit,C74939445,Cavity quantum electrodynamics,0
+C124148022,Quantum circuit,C131671149,Universal Turing machine,0
+C124148022,Quantum circuit,C112806910,Noise figure,0.4170323914242463
+C124148022,Quantum circuit,C131583701,Structural complexity theory,0
+C124148022,Quantum circuit,C206040425,Amplitude damping channel,0.3898712452512801
+C124148022,Quantum circuit,C199508470,Stochastic electrodynamics,0
+C124148022,Quantum circuit,C177414767,Supersymmetric quantum mechanics,0
+C124148022,Quantum circuit,C111861475,Quantum amplifier,0.4170323914242463
+C124148022,Quantum circuit,C177715462,Superintegrable Hamiltonian system,0
+C124148022,Quantum circuit,C71041172,Linear amplifier,0.4170323914242463
+C124148022,Quantum circuit,C15547884,DTIME,0
+C124148022,Quantum circuit,C41241483,Quantum capacity,0.3898712452512801
+C124148022,Quantum circuit,C2781190263,Circuit quantum electrodynamics,0
+C124148022,Quantum circuit,C145366948,Operational amplifier,0.4170323914242463
+C124148022,Quantum circuit,C182953411,Controlled NOT gate,0.6213349345596119
+C124148022,Quantum circuit,C192353077,Adiabatic quantum computation,0
+C22984246,Quantum imaging,C133976006,Noise spectral density,0
+C22984246,Quantum imaging,C169460222,Quantum logic,0
+C22984246,Quantum imaging,C12252657,Effective input noise temperature,0
+C22984246,Quantum imaging,C58849907,Quantum gate,0.3898712452512801
+C22984246,Quantum imaging,C142465778,Toffoli gate,0
+C22984246,Quantum imaging,C92043244,Quantum complexity theory,0
+C22984246,Quantum imaging,C139356082,Quantum discord,0
+C22984246,Quantum imaging,C56049555,EXPTIME,0
+C22984246,Quantum imaging,C48415503,Time hierarchy theorem,0
+C22984246,Quantum imaging,C158456648,Cluster state,0
+C22984246,Quantum imaging,C172218469,Direct-coupled amplifier,0
+C22984246,Quantum imaging,C200717178,Mathematical formulation of quantum mechanics,0
+C22984246,Quantum imaging,C122806257,PH,0
+C22984246,Quantum imaging,C71191651,Quantum nanoscience,0
+C22984246,Quantum imaging,C166576357,Y-factor,0
+C22984246,Quantum imaging,C207046469,Interpretations of quantum mechanics,0
+C22984246,Quantum imaging,C155332784,Low-noise amplifier,0
+C22984246,Quantum imaging,C90408235,Quantum annealing,0
+C22984246,Quantum imaging,C187486625,Quantum channel,0.8241657271545318
+C22984246,Quantum imaging,C39197057,Magnetic flux quantum,0
+C22984246,Quantum imaging,C168090291,Classical capacity,0.8241657271545318
+C22984246,Quantum imaging,C109546105,Flux qubit,0
+C22984246,Quantum imaging,C11255438,Quantum process,0
+C22984246,Quantum imaging,C165973109,Quantum probability,0
+C22984246,Quantum imaging,C164215192,Asymptotic computational complexity,0
+C22984246,Quantum imaging,C74939445,Cavity quantum electrodynamics,0
+C22984246,Quantum imaging,C131671149,Universal Turing machine,0
+C22984246,Quantum imaging,C112806910,Noise figure,0
+C22984246,Quantum imaging,C131583701,Structural complexity theory,0
+C22984246,Quantum imaging,C206040425,Amplitude damping channel,0.3898712452512801
+C22984246,Quantum imaging,C199508470,Stochastic electrodynamics,0
+C22984246,Quantum imaging,C177414767,Supersymmetric quantum mechanics,0
+C22984246,Quantum imaging,C111861475,Quantum amplifier,0
+C22984246,Quantum imaging,C177715462,Superintegrable Hamiltonian system,0
+C22984246,Quantum imaging,C71041172,Linear amplifier,0
+C22984246,Quantum imaging,C15547884,DTIME,0
+C22984246,Quantum imaging,C41241483,Quantum capacity,0.8241657271545318
+C22984246,Quantum imaging,C2781190263,Circuit quantum electrodynamics,0
+C22984246,Quantum imaging,C51003876,Quantum error correction,0
+C22984246,Quantum imaging,C145366948,Operational amplifier,0
+C22984246,Quantum imaging,C182953411,Controlled NOT gate,0
+C22984246,Quantum imaging,C192353077,Adiabatic quantum computation,0
+C133976006,Noise spectral density,C169460222,Quantum logic,0
+C133976006,Noise spectral density,C155194400,Spin Hall effect,0
+C133976006,Noise spectral density,C58849907,Quantum gate,0.4170323914242463
+C133976006,Noise spectral density,C142465778,Toffoli gate,0
+C133976006,Noise spectral density,C158971709,Magnonics,0
+C133976006,Noise spectral density,C92043244,Quantum complexity theory,0
+C133976006,Noise spectral density,C139356082,Quantum discord,0
+C133976006,Noise spectral density,C56049555,EXPTIME,0
+C133976006,Noise spectral density,C48415503,Time hierarchy theorem,0
+C133976006,Noise spectral density,C158456648,Cluster state,0
+C133976006,Noise spectral density,C172218469,Direct-coupled amplifier,1.3272716180510837
+C133976006,Noise spectral density,C95013731,Quantum metrology,0
+C133976006,Noise spectral density,C5320026,Quantum information science,0
+C133976006,Noise spectral density,C200717178,Mathematical formulation of quantum mechanics,0
+C133976006,Noise spectral density,C122806257,PH,0
+C133976006,Noise spectral density,C190463098,Quantum technology,0
+C133976006,Noise spectral density,C71191651,Quantum nanoscience,0
+C133976006,Noise spectral density,C166576357,Y-factor,1.3272716180510837
+C133976006,Noise spectral density,C207046469,Interpretations of quantum mechanics,0
+C133976006,Noise spectral density,C155332784,Low-noise amplifier,1.3272716180510837
+C133976006,Noise spectral density,C90408235,Quantum annealing,0
+C133976006,Noise spectral density,C187486625,Quantum channel,0
+C133976006,Noise spectral density,C39197057,Magnetic flux quantum,0
+C133976006,Noise spectral density,C89143813,Quantum sensor,0
+C133976006,Noise spectral density,C186468114,Quantum network,0
+C133976006,Noise spectral density,C168090291,Classical capacity,0
+C133976006,Noise spectral density,C109546105,Flux qubit,0
+C133976006,Noise spectral density,C11255438,Quantum process,0
+C133976006,Noise spectral density,C165973109,Quantum probability,0
+C133976006,Noise spectral density,C164215192,Asymptotic computational complexity,0
+C133976006,Noise spectral density,C74939445,Cavity quantum electrodynamics,0
+C133976006,Noise spectral density,C131671149,Universal Turing machine,0
+C133976006,Noise spectral density,C131583701,Structural complexity theory,0
+C133976006,Noise spectral density,C206040425,Amplitude damping channel,0
+C133976006,Noise spectral density,C199508470,Stochastic electrodynamics,0
+C133976006,Noise spectral density,C177414767,Supersymmetric quantum mechanics,0
+C133976006,Noise spectral density,C177715462,Superintegrable Hamiltonian system,0
+C133976006,Noise spectral density,C71041172,Linear amplifier,1.3272716180510837
+C133976006,Noise spectral density,C15547884,DTIME,0
+C133976006,Noise spectral density,C41241483,Quantum capacity,0
+C133976006,Noise spectral density,C2781190263,Circuit quantum electrodynamics,0
+C133976006,Noise spectral density,C145366948,Operational amplifier,1.3272716180510837
+C133976006,Noise spectral density,C182953411,Controlled NOT gate,0
+C133976006,Noise spectral density,C192353077,Adiabatic quantum computation,0
+C169460222,Quantum logic,C155194400,Spin Hall effect,0
+C169460222,Quantum logic,C12252657,Effective input noise temperature,0
+C169460222,Quantum logic,C58849907,Quantum gate,0
+C169460222,Quantum logic,C142465778,Toffoli gate,0
+C169460222,Quantum logic,C158971709,Magnonics,0
+C169460222,Quantum logic,C92043244,Quantum complexity theory,0
+C169460222,Quantum logic,C139356082,Quantum discord,0
+C169460222,Quantum logic,C56049555,EXPTIME,0
+C169460222,Quantum logic,C48415503,Time hierarchy theorem,0
+C169460222,Quantum logic,C158456648,Cluster state,0
+C169460222,Quantum logic,C172218469,Direct-coupled amplifier,0
+C169460222,Quantum logic,C95013731,Quantum metrology,0
+C169460222,Quantum logic,C5320026,Quantum information science,0
+C169460222,Quantum logic,C122806257,PH,0
+C169460222,Quantum logic,C190463098,Quantum technology,0
+C169460222,Quantum logic,C71191651,Quantum nanoscience,0.5581106265512472
+C169460222,Quantum logic,C166576357,Y-factor,0
+C169460222,Quantum logic,C155332784,Low-noise amplifier,0
+C169460222,Quantum logic,C90408235,Quantum annealing,0
+C169460222,Quantum logic,C187486625,Quantum channel,0
+C169460222,Quantum logic,C39197057,Magnetic flux quantum,0
+C169460222,Quantum logic,C89143813,Quantum sensor,0
+C169460222,Quantum logic,C186468114,Quantum network,0
+C169460222,Quantum logic,C168090291,Classical capacity,0
+C169460222,Quantum logic,C109546105,Flux qubit,0
+C169460222,Quantum logic,C164215192,Asymptotic computational complexity,0
+C169460222,Quantum logic,C74939445,Cavity quantum electrodynamics,0
+C169460222,Quantum logic,C131671149,Universal Turing machine,0
+C169460222,Quantum logic,C112806910,Noise figure,0
+C169460222,Quantum logic,C131583701,Structural complexity theory,0
+C169460222,Quantum logic,C206040425,Amplitude damping channel,0
+C169460222,Quantum logic,C199508470,Stochastic electrodynamics,0
+C169460222,Quantum logic,C111861475,Quantum amplifier,0
+C169460222,Quantum logic,C177715462,Superintegrable Hamiltonian system,0
+C169460222,Quantum logic,C71041172,Linear amplifier,0
+C169460222,Quantum logic,C15547884,DTIME,0
+C169460222,Quantum logic,C41241483,Quantum capacity,0
+C169460222,Quantum logic,C2781190263,Circuit quantum electrodynamics,0
+C169460222,Quantum logic,C51003876,Quantum error correction,0
+C169460222,Quantum logic,C145366948,Operational amplifier,0
+C169460222,Quantum logic,C182953411,Controlled NOT gate,0
+C169460222,Quantum logic,C192353077,Adiabatic quantum computation,0
+C155194400,Spin Hall effect,C12252657,Effective input noise temperature,0
+C155194400,Spin Hall effect,C58849907,Quantum gate,0.3898712452512801
+C155194400,Spin Hall effect,C142465778,Toffoli gate,0
+C155194400,Spin Hall effect,C92043244,Quantum complexity theory,0
+C155194400,Spin Hall effect,C139356082,Quantum discord,0
+C155194400,Spin Hall effect,C56049555,EXPTIME,0
+C155194400,Spin Hall effect,C48415503,Time hierarchy theorem,0
+C155194400,Spin Hall effect,C158456648,Cluster state,0
+C155194400,Spin Hall effect,C172218469,Direct-coupled amplifier,0
+C155194400,Spin Hall effect,C200717178,Mathematical formulation of quantum mechanics,0
+C155194400,Spin Hall effect,C122806257,PH,0
+C155194400,Spin Hall effect,C71191651,Quantum nanoscience,0
+C155194400,Spin Hall effect,C166576357,Y-factor,0
+C155194400,Spin Hall effect,C207046469,Interpretations of quantum mechanics,0
+C155194400,Spin Hall effect,C155332784,Low-noise amplifier,0
+C155194400,Spin Hall effect,C90408235,Quantum annealing,0
+C155194400,Spin Hall effect,C187486625,Quantum channel,0.8241657271545318
+C155194400,Spin Hall effect,C39197057,Magnetic flux quantum,0
+C155194400,Spin Hall effect,C168090291,Classical capacity,0.8241657271545318
+C155194400,Spin Hall effect,C109546105,Flux qubit,0
+C155194400,Spin Hall effect,C11255438,Quantum process,0
+C155194400,Spin Hall effect,C165973109,Quantum probability,0
+C155194400,Spin Hall effect,C164215192,Asymptotic computational complexity,0
+C155194400,Spin Hall effect,C74939445,Cavity quantum electrodynamics,0
+C155194400,Spin Hall effect,C131671149,Universal Turing machine,0
+C155194400,Spin Hall effect,C112806910,Noise figure,0
+C155194400,Spin Hall effect,C131583701,Structural complexity theory,0
+C155194400,Spin Hall effect,C206040425,Amplitude damping channel,0.3898712452512801
+C155194400,Spin Hall effect,C199508470,Stochastic electrodynamics,0
+C155194400,Spin Hall effect,C177414767,Supersymmetric quantum mechanics,0
+C155194400,Spin Hall effect,C111861475,Quantum amplifier,0
+C155194400,Spin Hall effect,C177715462,Superintegrable Hamiltonian system,0
+C155194400,Spin Hall effect,C71041172,Linear amplifier,0
+C155194400,Spin Hall effect,C15547884,DTIME,0
+C155194400,Spin Hall effect,C41241483,Quantum capacity,0.8241657271545318
+C155194400,Spin Hall effect,C2781190263,Circuit quantum electrodynamics,0
+C155194400,Spin Hall effect,C51003876,Quantum error correction,0
+C155194400,Spin Hall effect,C145366948,Operational amplifier,0
+C155194400,Spin Hall effect,C182953411,Controlled NOT gate,0
+C155194400,Spin Hall effect,C192353077,Adiabatic quantum computation,0
+C12252657,Effective input noise temperature,C58849907,Quantum gate,0.4170323914242463
+C12252657,Effective input noise temperature,C142465778,Toffoli gate,0
+C12252657,Effective input noise temperature,C158971709,Magnonics,0
+C12252657,Effective input noise temperature,C92043244,Quantum complexity theory,0
+C12252657,Effective input noise temperature,C139356082,Quantum discord,0
+C12252657,Effective input noise temperature,C56049555,EXPTIME,0
+C12252657,Effective input noise temperature,C48415503,Time hierarchy theorem,0
+C12252657,Effective input noise temperature,C158456648,Cluster state,0
+C12252657,Effective input noise temperature,C95013731,Quantum metrology,0
+C12252657,Effective input noise temperature,C5320026,Quantum information science,0
+C12252657,Effective input noise temperature,C200717178,Mathematical formulation of quantum mechanics,0
+C12252657,Effective input noise temperature,C122806257,PH,0
+C12252657,Effective input noise temperature,C190463098,Quantum technology,0
+C12252657,Effective input noise temperature,C71191651,Quantum nanoscience,0
+C12252657,Effective input noise temperature,C207046469,Interpretations of quantum mechanics,0
+C12252657,Effective input noise temperature,C90408235,Quantum annealing,0
+C12252657,Effective input noise temperature,C187486625,Quantum channel,0
+C12252657,Effective input noise temperature,C39197057,Magnetic flux quantum,0
+C12252657,Effective input noise temperature,C89143813,Quantum sensor,0
+C12252657,Effective input noise temperature,C186468114,Quantum network,0
+C12252657,Effective input noise temperature,C168090291,Classical capacity,0
+C12252657,Effective input noise temperature,C109546105,Flux qubit,0
+C12252657,Effective input noise temperature,C11255438,Quantum process,0
+C12252657,Effective input noise temperature,C165973109,Quantum probability,0
+C12252657,Effective input noise temperature,C164215192,Asymptotic computational complexity,0
+C12252657,Effective input noise temperature,C74939445,Cavity quantum electrodynamics,0
+C12252657,Effective input noise temperature,C131671149,Universal Turing machine,0
+C12252657,Effective input noise temperature,C131583701,Structural complexity theory,0
+C12252657,Effective input noise temperature,C206040425,Amplitude damping channel,0
+C12252657,Effective input noise temperature,C199508470,Stochastic electrodynamics,0
+C12252657,Effective input noise temperature,C177414767,Supersymmetric quantum mechanics,0
+C12252657,Effective input noise temperature,C177715462,Superintegrable Hamiltonian system,0
+C12252657,Effective input noise temperature,C15547884,DTIME,0
+C12252657,Effective input noise temperature,C41241483,Quantum capacity,0
+C12252657,Effective input noise temperature,C2781190263,Circuit quantum electrodynamics,0
+C12252657,Effective input noise temperature,C182953411,Controlled NOT gate,0
+C12252657,Effective input noise temperature,C192353077,Adiabatic quantum computation,0
+C58849907,Quantum gate,C158971709,Magnonics,0.3898712452512801
+C58849907,Quantum gate,C92043244,Quantum complexity theory,0
+C58849907,Quantum gate,C139356082,Quantum discord,0
+C58849907,Quantum gate,C56049555,EXPTIME,0
+C58849907,Quantum gate,C48415503,Time hierarchy theorem,0
+C58849907,Quantum gate,C158456648,Cluster state,0
+C58849907,Quantum gate,C172218469,Direct-coupled amplifier,0.4170323914242463
+C58849907,Quantum gate,C95013731,Quantum metrology,0.3898712452512801
+C58849907,Quantum gate,C5320026,Quantum information science,0.3898712452512801
+C58849907,Quantum gate,C200717178,Mathematical formulation of quantum mechanics,0
+C58849907,Quantum gate,C122806257,PH,0
+C58849907,Quantum gate,C190463098,Quantum technology,0.3898712452512801
+C58849907,Quantum gate,C71191651,Quantum nanoscience,0
+C58849907,Quantum gate,C166576357,Y-factor,0.4170323914242463
+C58849907,Quantum gate,C207046469,Interpretations of quantum mechanics,0
+C58849907,Quantum gate,C155332784,Low-noise amplifier,0.4170323914242463
+C58849907,Quantum gate,C90408235,Quantum annealing,0
+C58849907,Quantum gate,C187486625,Quantum channel,0.3898712452512801
+C58849907,Quantum gate,C39197057,Magnetic flux quantum,0
+C58849907,Quantum gate,C89143813,Quantum sensor,0.3898712452512801
+C58849907,Quantum gate,C168090291,Classical capacity,0.3898712452512801
+C58849907,Quantum gate,C109546105,Flux qubit,0
+C58849907,Quantum gate,C11255438,Quantum process,0
+C58849907,Quantum gate,C165973109,Quantum probability,0
+C58849907,Quantum gate,C164215192,Asymptotic computational complexity,0
+C58849907,Quantum gate,C74939445,Cavity quantum electrodynamics,0
+C58849907,Quantum gate,C131671149,Universal Turing machine,0
+C58849907,Quantum gate,C112806910,Noise figure,0.4170323914242463
+C58849907,Quantum gate,C131583701,Structural complexity theory,0
+C58849907,Quantum gate,C206040425,Amplitude damping channel,0.3898712452512801
+C58849907,Quantum gate,C199508470,Stochastic electrodynamics,0
+C58849907,Quantum gate,C177414767,Supersymmetric quantum mechanics,0
+C58849907,Quantum gate,C111861475,Quantum amplifier,0.4170323914242463
+C58849907,Quantum gate,C177715462,Superintegrable Hamiltonian system,0
+C58849907,Quantum gate,C71041172,Linear amplifier,0.4170323914242463
+C58849907,Quantum gate,C15547884,DTIME,0
+C58849907,Quantum gate,C41241483,Quantum capacity,0.3898712452512801
+C58849907,Quantum gate,C2781190263,Circuit quantum electrodynamics,0
+C58849907,Quantum gate,C145366948,Operational amplifier,0.4170323914242463
+C58849907,Quantum gate,C192353077,Adiabatic quantum computation,0
+C142465778,Toffoli gate,C158971709,Magnonics,0
+C142465778,Toffoli gate,C92043244,Quantum complexity theory,0
+C142465778,Toffoli gate,C139356082,Quantum discord,0
+C142465778,Toffoli gate,C56049555,EXPTIME,0
+C142465778,Toffoli gate,C48415503,Time hierarchy theorem,0
+C142465778,Toffoli gate,C158456648,Cluster state,0
+C142465778,Toffoli gate,C172218469,Direct-coupled amplifier,0
+C142465778,Toffoli gate,C95013731,Quantum metrology,0
+C142465778,Toffoli gate,C5320026,Quantum information science,0
+C142465778,Toffoli gate,C200717178,Mathematical formulation of quantum mechanics,0
+C142465778,Toffoli gate,C122806257,PH,0
+C142465778,Toffoli gate,C190463098,Quantum technology,0
+C142465778,Toffoli gate,C71191651,Quantum nanoscience,0
+C142465778,Toffoli gate,C166576357,Y-factor,0
+C142465778,Toffoli gate,C207046469,Interpretations of quantum mechanics,0
+C142465778,Toffoli gate,C155332784,Low-noise amplifier,0
+C142465778,Toffoli gate,C90408235,Quantum annealing,0
+C142465778,Toffoli gate,C187486625,Quantum channel,0
+C142465778,Toffoli gate,C39197057,Magnetic flux quantum,0
+C142465778,Toffoli gate,C89143813,Quantum sensor,0
+C142465778,Toffoli gate,C186468114,Quantum network,0.6213349345596119
+C142465778,Toffoli gate,C168090291,Classical capacity,0
+C142465778,Toffoli gate,C109546105,Flux qubit,0
+C142465778,Toffoli gate,C11255438,Quantum process,0
+C142465778,Toffoli gate,C165973109,Quantum probability,0
+C142465778,Toffoli gate,C164215192,Asymptotic computational complexity,0
+C142465778,Toffoli gate,C74939445,Cavity quantum electrodynamics,0
+C142465778,Toffoli gate,C131671149,Universal Turing machine,0
+C142465778,Toffoli gate,C112806910,Noise figure,0
+C142465778,Toffoli gate,C131583701,Structural complexity theory,0
+C142465778,Toffoli gate,C206040425,Amplitude damping channel,0
+C142465778,Toffoli gate,C199508470,Stochastic electrodynamics,0
+C142465778,Toffoli gate,C177414767,Supersymmetric quantum mechanics,0
+C142465778,Toffoli gate,C111861475,Quantum amplifier,0
+C142465778,Toffoli gate,C177715462,Superintegrable Hamiltonian system,0
+C142465778,Toffoli gate,C71041172,Linear amplifier,0
+C142465778,Toffoli gate,C15547884,DTIME,0
+C142465778,Toffoli gate,C41241483,Quantum capacity,0
+C142465778,Toffoli gate,C2781190263,Circuit quantum electrodynamics,0
+C142465778,Toffoli gate,C51003876,Quantum error correction,0.6213349345596119
+C142465778,Toffoli gate,C145366948,Operational amplifier,0
+C142465778,Toffoli gate,C192353077,Adiabatic quantum computation,0
+C158971709,Magnonics,C92043244,Quantum complexity theory,0
+C158971709,Magnonics,C139356082,Quantum discord,0
+C158971709,Magnonics,C56049555,EXPTIME,0
+C158971709,Magnonics,C48415503,Time hierarchy theorem,0
+C158971709,Magnonics,C158456648,Cluster state,0
+C158971709,Magnonics,C172218469,Direct-coupled amplifier,0
+C158971709,Magnonics,C200717178,Mathematical formulation of quantum mechanics,0
+C158971709,Magnonics,C122806257,PH,0
+C158971709,Magnonics,C71191651,Quantum nanoscience,0
+C158971709,Magnonics,C166576357,Y-factor,0
+C158971709,Magnonics,C207046469,Interpretations of quantum mechanics,0
+C158971709,Magnonics,C155332784,Low-noise amplifier,0
+C158971709,Magnonics,C90408235,Quantum annealing,0
+C158971709,Magnonics,C187486625,Quantum channel,0.8241657271545318
+C158971709,Magnonics,C39197057,Magnetic flux quantum,0
+C158971709,Magnonics,C168090291,Classical capacity,0.8241657271545318
+C158971709,Magnonics,C109546105,Flux qubit,0
+C158971709,Magnonics,C11255438,Quantum process,0
+C158971709,Magnonics,C165973109,Quantum probability,0
+C158971709,Magnonics,C164215192,Asymptotic computational complexity,0
+C158971709,Magnonics,C74939445,Cavity quantum electrodynamics,0
+C158971709,Magnonics,C131671149,Universal Turing machine,0
+C158971709,Magnonics,C112806910,Noise figure,0
+C158971709,Magnonics,C131583701,Structural complexity theory,0
+C158971709,Magnonics,C206040425,Amplitude damping channel,0.3898712452512801
+C158971709,Magnonics,C199508470,Stochastic electrodynamics,0
+C158971709,Magnonics,C177414767,Supersymmetric quantum mechanics,0
+C158971709,Magnonics,C111861475,Quantum amplifier,0
+C158971709,Magnonics,C177715462,Superintegrable Hamiltonian system,0
+C158971709,Magnonics,C71041172,Linear amplifier,0
+C158971709,Magnonics,C15547884,DTIME,0
+C158971709,Magnonics,C41241483,Quantum capacity,0.8241657271545318
+C158971709,Magnonics,C2781190263,Circuit quantum electrodynamics,0
+C158971709,Magnonics,C51003876,Quantum error correction,0
+C158971709,Magnonics,C145366948,Operational amplifier,0
+C158971709,Magnonics,C182953411,Controlled NOT gate,0
+C158971709,Magnonics,C192353077,Adiabatic quantum computation,0
+C92043244,Quantum complexity theory,C139356082,Quantum discord,0
+C92043244,Quantum complexity theory,C158456648,Cluster state,0
+C92043244,Quantum complexity theory,C172218469,Direct-coupled amplifier,0
+C92043244,Quantum complexity theory,C95013731,Quantum metrology,0
+C92043244,Quantum complexity theory,C5320026,Quantum information science,0
+C92043244,Quantum complexity theory,C200717178,Mathematical formulation of quantum mechanics,0
+C92043244,Quantum complexity theory,C190463098,Quantum technology,0
+C92043244,Quantum complexity theory,C71191651,Quantum nanoscience,0
+C92043244,Quantum complexity theory,C166576357,Y-factor,0
+C92043244,Quantum complexity theory,C207046469,Interpretations of quantum mechanics,0
+C92043244,Quantum complexity theory,C155332784,Low-noise amplifier,0
+C92043244,Quantum complexity theory,C90408235,Quantum annealing,0
+C92043244,Quantum complexity theory,C187486625,Quantum channel,0
+C92043244,Quantum complexity theory,C39197057,Magnetic flux quantum,0
+C92043244,Quantum complexity theory,C89143813,Quantum sensor,0
+C92043244,Quantum complexity theory,C186468114,Quantum network,0
+C92043244,Quantum complexity theory,C168090291,Classical capacity,0
+C92043244,Quantum complexity theory,C109546105,Flux qubit,0
+C92043244,Quantum complexity theory,C11255438,Quantum process,0
+C92043244,Quantum complexity theory,C165973109,Quantum probability,0
+C92043244,Quantum complexity theory,C74939445,Cavity quantum electrodynamics,0
+C92043244,Quantum complexity theory,C112806910,Noise figure,0
+C92043244,Quantum complexity theory,C206040425,Amplitude damping channel,0
+C92043244,Quantum complexity theory,C199508470,Stochastic electrodynamics,0
+C92043244,Quantum complexity theory,C177414767,Supersymmetric quantum mechanics,0
+C92043244,Quantum complexity theory,C111861475,Quantum amplifier,0
+C92043244,Quantum complexity theory,C177715462,Superintegrable Hamiltonian system,0
+C92043244,Quantum complexity theory,C71041172,Linear amplifier,0
+C92043244,Quantum complexity theory,C41241483,Quantum capacity,0
+C92043244,Quantum complexity theory,C2781190263,Circuit quantum electrodynamics,0
+C92043244,Quantum complexity theory,C51003876,Quantum error correction,0
+C92043244,Quantum complexity theory,C145366948,Operational amplifier,0
+C92043244,Quantum complexity theory,C182953411,Controlled NOT gate,0
+C92043244,Quantum complexity theory,C192353077,Adiabatic quantum computation,0
+C139356082,Quantum discord,C56049555,EXPTIME,0
+C139356082,Quantum discord,C48415503,Time hierarchy theorem,0
+C139356082,Quantum discord,C158456648,Cluster state,0
+C139356082,Quantum discord,C172218469,Direct-coupled amplifier,0
+C139356082,Quantum discord,C95013731,Quantum metrology,0
+C139356082,Quantum discord,C5320026,Quantum information science,0
+C139356082,Quantum discord,C200717178,Mathematical formulation of quantum mechanics,0
+C139356082,Quantum discord,C122806257,PH,0
+C139356082,Quantum discord,C190463098,Quantum technology,0
+C139356082,Quantum discord,C71191651,Quantum nanoscience,0
+C139356082,Quantum discord,C166576357,Y-factor,0
+C139356082,Quantum discord,C207046469,Interpretations of quantum mechanics,0
+C139356082,Quantum discord,C155332784,Low-noise amplifier,0
+C139356082,Quantum discord,C90408235,Quantum annealing,0
+C139356082,Quantum discord,C187486625,Quantum channel,0.7213475204444817
+C139356082,Quantum discord,C39197057,Magnetic flux quantum,0
+C139356082,Quantum discord,C89143813,Quantum sensor,0
+C139356082,Quantum discord,C186468114,Quantum network,0.7213475204444817
+C139356082,Quantum discord,C168090291,Classical capacity,0
+C139356082,Quantum discord,C109546105,Flux qubit,0
+C139356082,Quantum discord,C11255438,Quantum process,0
+C139356082,Quantum discord,C165973109,Quantum probability,0
+C139356082,Quantum discord,C164215192,Asymptotic computational complexity,0
+C139356082,Quantum discord,C74939445,Cavity quantum electrodynamics,0
+C139356082,Quantum discord,C131671149,Universal Turing machine,0
+C139356082,Quantum discord,C112806910,Noise figure,0
+C139356082,Quantum discord,C131583701,Structural complexity theory,0
+C139356082,Quantum discord,C199508470,Stochastic electrodynamics,0
+C139356082,Quantum discord,C177414767,Supersymmetric quantum mechanics,0
+C139356082,Quantum discord,C111861475,Quantum amplifier,0
+C139356082,Quantum discord,C177715462,Superintegrable Hamiltonian system,0
+C139356082,Quantum discord,C71041172,Linear amplifier,0
+C139356082,Quantum discord,C15547884,DTIME,0
+C139356082,Quantum discord,C41241483,Quantum capacity,0.7213475204444817
+C139356082,Quantum discord,C2781190263,Circuit quantum electrodynamics,0
+C139356082,Quantum discord,C51003876,Quantum error correction,0
+C139356082,Quantum discord,C145366948,Operational amplifier,0
+C139356082,Quantum discord,C182953411,Controlled NOT gate,0
+C139356082,Quantum discord,C192353077,Adiabatic quantum computation,0
+C56049555,EXPTIME,C158456648,Cluster state,0
+C56049555,EXPTIME,C172218469,Direct-coupled amplifier,0
+C56049555,EXPTIME,C95013731,Quantum metrology,0
+C56049555,EXPTIME,C5320026,Quantum information science,0
+C56049555,EXPTIME,C200717178,Mathematical formulation of quantum mechanics,0
+C56049555,EXPTIME,C190463098,Quantum technology,0
+C56049555,EXPTIME,C71191651,Quantum nanoscience,0
+C56049555,EXPTIME,C166576357,Y-factor,0
+C56049555,EXPTIME,C207046469,Interpretations of quantum mechanics,0
+C56049555,EXPTIME,C155332784,Low-noise amplifier,0
+C56049555,EXPTIME,C90408235,Quantum annealing,0
+C56049555,EXPTIME,C187486625,Quantum channel,0
+C56049555,EXPTIME,C39197057,Magnetic flux quantum,0
+C56049555,EXPTIME,C89143813,Quantum sensor,0
+C56049555,EXPTIME,C186468114,Quantum network,0
+C56049555,EXPTIME,C168090291,Classical capacity,0
+C56049555,EXPTIME,C109546105,Flux qubit,0
+C56049555,EXPTIME,C11255438,Quantum process,0
+C56049555,EXPTIME,C165973109,Quantum probability,0
+C56049555,EXPTIME,C164215192,Asymptotic computational complexity,2.5694917118487535
+C56049555,EXPTIME,C74939445,Cavity quantum electrodynamics,0
+C56049555,EXPTIME,C112806910,Noise figure,0
+C56049555,EXPTIME,C206040425,Amplitude damping channel,0
+C56049555,EXPTIME,C199508470,Stochastic electrodynamics,0
+C56049555,EXPTIME,C177414767,Supersymmetric quantum mechanics,0
+C56049555,EXPTIME,C111861475,Quantum amplifier,0
+C56049555,EXPTIME,C177715462,Superintegrable Hamiltonian system,0
+C56049555,EXPTIME,C71041172,Linear amplifier,0
+C56049555,EXPTIME,C41241483,Quantum capacity,0
+C56049555,EXPTIME,C2781190263,Circuit quantum electrodynamics,0
+C56049555,EXPTIME,C51003876,Quantum error correction,0
+C56049555,EXPTIME,C145366948,Operational amplifier,0
+C56049555,EXPTIME,C182953411,Controlled NOT gate,0
+C56049555,EXPTIME,C192353077,Adiabatic quantum computation,0
+C48415503,Time hierarchy theorem,C158456648,Cluster state,0
+C48415503,Time hierarchy theorem,C172218469,Direct-coupled amplifier,0
+C48415503,Time hierarchy theorem,C95013731,Quantum metrology,0
+C48415503,Time hierarchy theorem,C5320026,Quantum information science,0
+C48415503,Time hierarchy theorem,C200717178,Mathematical formulation of quantum mechanics,0
+C48415503,Time hierarchy theorem,C190463098,Quantum technology,0
+C48415503,Time hierarchy theorem,C71191651,Quantum nanoscience,0
+C48415503,Time hierarchy theorem,C166576357,Y-factor,0
+C48415503,Time hierarchy theorem,C207046469,Interpretations of quantum mechanics,0
+C48415503,Time hierarchy theorem,C155332784,Low-noise amplifier,0
+C48415503,Time hierarchy theorem,C90408235,Quantum annealing,0
+C48415503,Time hierarchy theorem,C187486625,Quantum channel,0
+C48415503,Time hierarchy theorem,C39197057,Magnetic flux quantum,0
+C48415503,Time hierarchy theorem,C89143813,Quantum sensor,0
+C48415503,Time hierarchy theorem,C186468114,Quantum network,0
+C48415503,Time hierarchy theorem,C168090291,Classical capacity,0
+C48415503,Time hierarchy theorem,C109546105,Flux qubit,0
+C48415503,Time hierarchy theorem,C11255438,Quantum process,0
+C48415503,Time hierarchy theorem,C165973109,Quantum probability,0
+C48415503,Time hierarchy theorem,C164215192,Asymptotic computational complexity,2.5694917118487535
+C48415503,Time hierarchy theorem,C74939445,Cavity quantum electrodynamics,0
+C48415503,Time hierarchy theorem,C112806910,Noise figure,0
+C48415503,Time hierarchy theorem,C206040425,Amplitude damping channel,0
+C48415503,Time hierarchy theorem,C199508470,Stochastic electrodynamics,0
+C48415503,Time hierarchy theorem,C177414767,Supersymmetric quantum mechanics,0
+C48415503,Time hierarchy theorem,C111861475,Quantum amplifier,0
+C48415503,Time hierarchy theorem,C177715462,Superintegrable Hamiltonian system,0
+C48415503,Time hierarchy theorem,C71041172,Linear amplifier,0
+C48415503,Time hierarchy theorem,C41241483,Quantum capacity,0
+C48415503,Time hierarchy theorem,C2781190263,Circuit quantum electrodynamics,0
+C48415503,Time hierarchy theorem,C51003876,Quantum error correction,0
+C48415503,Time hierarchy theorem,C145366948,Operational amplifier,0
+C48415503,Time hierarchy theorem,C182953411,Controlled NOT gate,0
+C48415503,Time hierarchy theorem,C192353077,Adiabatic quantum computation,0
+C158456648,Cluster state,C172218469,Direct-coupled amplifier,0
+C158456648,Cluster state,C95013731,Quantum metrology,0
+C158456648,Cluster state,C5320026,Quantum information science,0
+C158456648,Cluster state,C200717178,Mathematical formulation of quantum mechanics,0
+C158456648,Cluster state,C122806257,PH,0
+C158456648,Cluster state,C190463098,Quantum technology,0
+C158456648,Cluster state,C71191651,Quantum nanoscience,0
+C158456648,Cluster state,C166576357,Y-factor,0
+C158456648,Cluster state,C207046469,Interpretations of quantum mechanics,0
+C158456648,Cluster state,C155332784,Low-noise amplifier,0
+C158456648,Cluster state,C90408235,Quantum annealing,0
+C158456648,Cluster state,C187486625,Quantum channel,0
+C158456648,Cluster state,C39197057,Magnetic flux quantum,0
+C158456648,Cluster state,C89143813,Quantum sensor,0
+C158456648,Cluster state,C186468114,Quantum network,0
+C158456648,Cluster state,C168090291,Classical capacity,0
+C158456648,Cluster state,C109546105,Flux qubit,0
+C158456648,Cluster state,C11255438,Quantum process,0
+C158456648,Cluster state,C165973109,Quantum probability,0
+C158456648,Cluster state,C164215192,Asymptotic computational complexity,0
+C158456648,Cluster state,C74939445,Cavity quantum electrodynamics,0
+C158456648,Cluster state,C131671149,Universal Turing machine,0
+C158456648,Cluster state,C112806910,Noise figure,0
+C158456648,Cluster state,C131583701,Structural complexity theory,0
+C158456648,Cluster state,C206040425,Amplitude damping channel,0
+C158456648,Cluster state,C199508470,Stochastic electrodynamics,0
+C158456648,Cluster state,C177414767,Supersymmetric quantum mechanics,0
+C158456648,Cluster state,C111861475,Quantum amplifier,0
+C158456648,Cluster state,C177715462,Superintegrable Hamiltonian system,0
+C158456648,Cluster state,C71041172,Linear amplifier,0
+C158456648,Cluster state,C15547884,DTIME,0
+C158456648,Cluster state,C41241483,Quantum capacity,0
+C158456648,Cluster state,C2781190263,Circuit quantum electrodynamics,0
+C158456648,Cluster state,C51003876,Quantum error correction,0
+C158456648,Cluster state,C145366948,Operational amplifier,0
+C158456648,Cluster state,C182953411,Controlled NOT gate,0
+C158456648,Cluster state,C192353077,Adiabatic quantum computation,0
+C172218469,Direct-coupled amplifier,C95013731,Quantum metrology,0
+C172218469,Direct-coupled amplifier,C5320026,Quantum information science,0
+C172218469,Direct-coupled amplifier,C200717178,Mathematical formulation of quantum mechanics,0
+C172218469,Direct-coupled amplifier,C122806257,PH,0
+C172218469,Direct-coupled amplifier,C190463098,Quantum technology,0
+C172218469,Direct-coupled amplifier,C71191651,Quantum nanoscience,0
+C172218469,Direct-coupled amplifier,C207046469,Interpretations of quantum mechanics,0
+C172218469,Direct-coupled amplifier,C90408235,Quantum annealing,0
+C172218469,Direct-coupled amplifier,C187486625,Quantum channel,0
+C172218469,Direct-coupled amplifier,C39197057,Magnetic flux quantum,0
+C172218469,Direct-coupled amplifier,C89143813,Quantum sensor,0
+C172218469,Direct-coupled amplifier,C186468114,Quantum network,0
+C172218469,Direct-coupled amplifier,C168090291,Classical capacity,0
+C172218469,Direct-coupled amplifier,C109546105,Flux qubit,0
+C172218469,Direct-coupled amplifier,C11255438,Quantum process,0
+C172218469,Direct-coupled amplifier,C165973109,Quantum probability,0
+C172218469,Direct-coupled amplifier,C164215192,Asymptotic computational complexity,0
+C172218469,Direct-coupled amplifier,C74939445,Cavity quantum electrodynamics,0
+C172218469,Direct-coupled amplifier,C131671149,Universal Turing machine,0
+C172218469,Direct-coupled amplifier,C112806910,Noise figure,1.3272716180510837
+C172218469,Direct-coupled amplifier,C131583701,Structural complexity theory,0
+C172218469,Direct-coupled amplifier,C206040425,Amplitude damping channel,0
+C172218469,Direct-coupled amplifier,C199508470,Stochastic electrodynamics,0
+C172218469,Direct-coupled amplifier,C177414767,Supersymmetric quantum mechanics,0
+C172218469,Direct-coupled amplifier,C177715462,Superintegrable Hamiltonian system,0
+C172218469,Direct-coupled amplifier,C15547884,DTIME,0
+C172218469,Direct-coupled amplifier,C41241483,Quantum capacity,0
+C172218469,Direct-coupled amplifier,C2781190263,Circuit quantum electrodynamics,0
+C172218469,Direct-coupled amplifier,C182953411,Controlled NOT gate,0
+C172218469,Direct-coupled amplifier,C192353077,Adiabatic quantum computation,0
+C95013731,Quantum metrology,C200717178,Mathematical formulation of quantum mechanics,0
+C95013731,Quantum metrology,C122806257,PH,0
+C95013731,Quantum metrology,C71191651,Quantum nanoscience,0
+C95013731,Quantum metrology,C166576357,Y-factor,0
+C95013731,Quantum metrology,C207046469,Interpretations of quantum mechanics,0
+C95013731,Quantum metrology,C155332784,Low-noise amplifier,0
+C95013731,Quantum metrology,C90408235,Quantum annealing,0
+C95013731,Quantum metrology,C187486625,Quantum channel,0.8241657271545318
+C95013731,Quantum metrology,C39197057,Magnetic flux quantum,0
+C95013731,Quantum metrology,C168090291,Classical capacity,0.8241657271545318
+C95013731,Quantum metrology,C109546105,Flux qubit,0
+C95013731,Quantum metrology,C11255438,Quantum process,0
+C95013731,Quantum metrology,C165973109,Quantum probability,0
+C95013731,Quantum metrology,C164215192,Asymptotic computational complexity,0
+C95013731,Quantum metrology,C74939445,Cavity quantum electrodynamics,0
+C95013731,Quantum metrology,C131671149,Universal Turing machine,0
+C95013731,Quantum metrology,C112806910,Noise figure,0
+C95013731,Quantum metrology,C131583701,Structural complexity theory,0
+C95013731,Quantum metrology,C206040425,Amplitude damping channel,0.3898712452512801
+C95013731,Quantum metrology,C199508470,Stochastic electrodynamics,0
+C95013731,Quantum metrology,C177414767,Supersymmetric quantum mechanics,0
+C95013731,Quantum metrology,C111861475,Quantum amplifier,0
+C95013731,Quantum metrology,C177715462,Superintegrable Hamiltonian system,0
+C95013731,Quantum metrology,C71041172,Linear amplifier,0
+C95013731,Quantum metrology,C15547884,DTIME,0
+C95013731,Quantum metrology,C41241483,Quantum capacity,0.8241657271545318
+C95013731,Quantum metrology,C2781190263,Circuit quantum electrodynamics,0
+C95013731,Quantum metrology,C51003876,Quantum error correction,0
+C95013731,Quantum metrology,C145366948,Operational amplifier,0
+C95013731,Quantum metrology,C182953411,Controlled NOT gate,0
+C95013731,Quantum metrology,C192353077,Adiabatic quantum computation,0
+C5320026,Quantum information science,C200717178,Mathematical formulation of quantum mechanics,0
+C5320026,Quantum information science,C122806257,PH,0
+C5320026,Quantum information science,C71191651,Quantum nanoscience,0
+C5320026,Quantum information science,C166576357,Y-factor,0
+C5320026,Quantum information science,C207046469,Interpretations of quantum mechanics,0
+C5320026,Quantum information science,C155332784,Low-noise amplifier,0
+C5320026,Quantum information science,C90408235,Quantum annealing,0
+C5320026,Quantum information science,C39197057,Magnetic flux quantum,0
+C5320026,Quantum information science,C109546105,Flux qubit,0
+C5320026,Quantum information science,C11255438,Quantum process,0
+C5320026,Quantum information science,C165973109,Quantum probability,0
+C5320026,Quantum information science,C164215192,Asymptotic computational complexity,0
+C5320026,Quantum information science,C74939445,Cavity quantum electrodynamics,0
+C5320026,Quantum information science,C131671149,Universal Turing machine,0
+C5320026,Quantum information science,C112806910,Noise figure,0
+C5320026,Quantum information science,C131583701,Structural complexity theory,0
+C5320026,Quantum information science,C206040425,Amplitude damping channel,1.6325411143705038
+C5320026,Quantum information science,C199508470,Stochastic electrodynamics,0
+C5320026,Quantum information science,C177414767,Supersymmetric quantum mechanics,0
+C5320026,Quantum information science,C111861475,Quantum amplifier,0
+C5320026,Quantum information science,C177715462,Superintegrable Hamiltonian system,0
+C5320026,Quantum information science,C71041172,Linear amplifier,0
+C5320026,Quantum information science,C15547884,DTIME,0
+C5320026,Quantum information science,C2781190263,Circuit quantum electrodynamics,0
+C5320026,Quantum information science,C51003876,Quantum error correction,0
+C5320026,Quantum information science,C145366948,Operational amplifier,0
+C5320026,Quantum information science,C182953411,Controlled NOT gate,0
+C5320026,Quantum information science,C192353077,Adiabatic quantum computation,0
+C200717178,Mathematical formulation of quantum mechanics,C71191651,Quantum nanoscience,0.5581106265512472
+C200717178,Mathematical formulation of quantum mechanics,C122806257,PH,0
+C200717178,Mathematical formulation of quantum mechanics,C190463098,Quantum technology,0
+C200717178,Mathematical formulation of quantum mechanics,C166576357,Y-factor,0
+C200717178,Mathematical formulation of quantum mechanics,C155332784,Low-noise amplifier,0
+C200717178,Mathematical formulation of quantum mechanics,C90408235,Quantum annealing,0
+C200717178,Mathematical formulation of quantum mechanics,C187486625,Quantum channel,0
+C200717178,Mathematical formulation of quantum mechanics,C39197057,Magnetic flux quantum,0
+C200717178,Mathematical formulation of quantum mechanics,C89143813,Quantum sensor,0
+C200717178,Mathematical formulation of quantum mechanics,C186468114,Quantum network,0
+C200717178,Mathematical formulation of quantum mechanics,C168090291,Classical capacity,0
+C200717178,Mathematical formulation of quantum mechanics,C109546105,Flux qubit,0
+C200717178,Mathematical formulation of quantum mechanics,C164215192,Asymptotic computational complexity,0
+C200717178,Mathematical formulation of quantum mechanics,C74939445,Cavity quantum electrodynamics,0
+C200717178,Mathematical formulation of quantum mechanics,C131671149,Universal Turing machine,0
+C200717178,Mathematical formulation of quantum mechanics,C112806910,Noise figure,0
+C200717178,Mathematical formulation of quantum mechanics,C131583701,Structural complexity theory,0
+C200717178,Mathematical formulation of quantum mechanics,C206040425,Amplitude damping channel,0
+C200717178,Mathematical formulation of quantum mechanics,C199508470,Stochastic electrodynamics,0
+C200717178,Mathematical formulation of quantum mechanics,C111861475,Quantum amplifier,0
+C200717178,Mathematical formulation of quantum mechanics,C177715462,Superintegrable Hamiltonian system,0
+C200717178,Mathematical formulation of quantum mechanics,C71041172,Linear amplifier,0
+C200717178,Mathematical formulation of quantum mechanics,C15547884,DTIME,0
+C200717178,Mathematical formulation of quantum mechanics,C41241483,Quantum capacity,0
+C200717178,Mathematical formulation of quantum mechanics,C2781190263,Circuit quantum electrodynamics,0
+C200717178,Mathematical formulation of quantum mechanics,C51003876,Quantum error correction,0
+C200717178,Mathematical formulation of quantum mechanics,C145366948,Operational amplifier,0
+C200717178,Mathematical formulation of quantum mechanics,C182953411,Controlled NOT gate,0
+C200717178,Mathematical formulation of quantum mechanics,C192353077,Adiabatic quantum computation,0
+C122806257,PH,C71191651,Quantum nanoscience,0
+C122806257,PH,C190463098,Quantum technology,0
+C122806257,PH,C166576357,Y-factor,0
+C122806257,PH,C207046469,Interpretations of quantum mechanics,0
+C122806257,PH,C155332784,Low-noise amplifier,0
+C122806257,PH,C90408235,Quantum annealing,0
+C122806257,PH,C187486625,Quantum channel,0
+C122806257,PH,C39197057,Magnetic flux quantum,0
+C122806257,PH,C89143813,Quantum sensor,0
+C122806257,PH,C186468114,Quantum network,0
+C122806257,PH,C168090291,Classical capacity,0
+C122806257,PH,C109546105,Flux qubit,0
+C122806257,PH,C11255438,Quantum process,0
+C122806257,PH,C165973109,Quantum probability,0
+C122806257,PH,C74939445,Cavity quantum electrodynamics,0
+C122806257,PH,C112806910,Noise figure,0
+C122806257,PH,C206040425,Amplitude damping channel,0
+C122806257,PH,C199508470,Stochastic electrodynamics,0
+C122806257,PH,C177414767,Supersymmetric quantum mechanics,0
+C122806257,PH,C111861475,Quantum amplifier,0
+C122806257,PH,C177715462,Superintegrable Hamiltonian system,0
+C122806257,PH,C71041172,Linear amplifier,0
+C122806257,PH,C41241483,Quantum capacity,0
+C122806257,PH,C2781190263,Circuit quantum electrodynamics,0
+C122806257,PH,C51003876,Quantum error correction,0
+C122806257,PH,C145366948,Operational amplifier,0
+C122806257,PH,C182953411,Controlled NOT gate,0
+C122806257,PH,C192353077,Adiabatic quantum computation,0
+C190463098,Quantum technology,C71191651,Quantum nanoscience,0
+C190463098,Quantum technology,C166576357,Y-factor,0
+C190463098,Quantum technology,C207046469,Interpretations of quantum mechanics,0
+C190463098,Quantum technology,C155332784,Low-noise amplifier,0
+C190463098,Quantum technology,C90408235,Quantum annealing,0
+C190463098,Quantum technology,C39197057,Magnetic flux quantum,0
+C190463098,Quantum technology,C187486625,Quantum channel,0.8241657271545318
+C190463098,Quantum technology,C168090291,Classical capacity,0.8241657271545318
+C190463098,Quantum technology,C109546105,Flux qubit,0
+C190463098,Quantum technology,C11255438,Quantum process,0
+C190463098,Quantum technology,C165973109,Quantum probability,0
+C190463098,Quantum technology,C164215192,Asymptotic computational complexity,0
+C190463098,Quantum technology,C74939445,Cavity quantum electrodynamics,0
+C190463098,Quantum technology,C131671149,Universal Turing machine,0
+C190463098,Quantum technology,C112806910,Noise figure,0
+C190463098,Quantum technology,C131583701,Structural complexity theory,0
+C190463098,Quantum technology,C206040425,Amplitude damping channel,0.3898712452512801
+C190463098,Quantum technology,C199508470,Stochastic electrodynamics,0
+C190463098,Quantum technology,C177414767,Supersymmetric quantum mechanics,0
+C190463098,Quantum technology,C111861475,Quantum amplifier,0
+C190463098,Quantum technology,C177715462,Superintegrable Hamiltonian system,0
+C190463098,Quantum technology,C71041172,Linear amplifier,0
+C190463098,Quantum technology,C15547884,DTIME,0
+C190463098,Quantum technology,C41241483,Quantum capacity,0.8241657271545318
+C190463098,Quantum technology,C2781190263,Circuit quantum electrodynamics,0
+C190463098,Quantum technology,C51003876,Quantum error correction,0
+C190463098,Quantum technology,C145366948,Operational amplifier,0
+C190463098,Quantum technology,C182953411,Controlled NOT gate,0
+C190463098,Quantum technology,C192353077,Adiabatic quantum computation,0
+C71191651,Quantum nanoscience,C192353077,Adiabatic quantum computation,0
+C71191651,Quantum nanoscience,C186468114,Quantum network,0
+C71191651,Quantum nanoscience,C168090291,Classical capacity,0
+C71191651,Quantum nanoscience,C109546105,Flux qubit,0
+C71191651,Quantum nanoscience,C165973109,Quantum probability,0.5581106265512472
+C71191651,Quantum nanoscience,C164215192,Asymptotic computational complexity,0
+C71191651,Quantum nanoscience,C74939445,Cavity quantum electrodynamics,0
+C71191651,Quantum nanoscience,C131671149,Universal Turing machine,0
+C71191651,Quantum nanoscience,C112806910,Noise figure,0
+C71191651,Quantum nanoscience,C131583701,Structural complexity theory,0
+C71191651,Quantum nanoscience,C206040425,Amplitude damping channel,0
+C71191651,Quantum nanoscience,C39197057,Magnetic flux quantum,0
+C71191651,Quantum nanoscience,C199508470,Stochastic electrodynamics,0
+C71191651,Quantum nanoscience,C177414767,Supersymmetric quantum mechanics,0.5581106265512472
+C71191651,Quantum nanoscience,C111861475,Quantum amplifier,0
+C71191651,Quantum nanoscience,C177715462,Superintegrable Hamiltonian system,0
+C71191651,Quantum nanoscience,C166576357,Y-factor,0
+C71191651,Quantum nanoscience,C207046469,Interpretations of quantum mechanics,0.5581106265512472
+C71191651,Quantum nanoscience,C71041172,Linear amplifier,0
+C71191651,Quantum nanoscience,C15547884,DTIME,0
+C71191651,Quantum nanoscience,C155332784,Low-noise amplifier,0
+C71191651,Quantum nanoscience,C41241483,Quantum capacity,0
+C71191651,Quantum nanoscience,C182953411,Controlled NOT gate,0
+C71191651,Quantum nanoscience,C2781190263,Circuit quantum electrodynamics,0
+C71191651,Quantum nanoscience,C51003876,Quantum error correction,0
+C71191651,Quantum nanoscience,C90408235,Quantum annealing,0
+C71191651,Quantum nanoscience,C145366948,Operational amplifier,0
+C71191651,Quantum nanoscience,C187486625,Quantum channel,0
+C71191651,Quantum nanoscience,C89143813,Quantum sensor,0
+C166576357,Y-factor,C207046469,Interpretations of quantum mechanics,0
+C166576357,Y-factor,C90408235,Quantum annealing,0
+C166576357,Y-factor,C187486625,Quantum channel,0
+C166576357,Y-factor,C39197057,Magnetic flux quantum,0
+C166576357,Y-factor,C89143813,Quantum sensor,0
+C166576357,Y-factor,C186468114,Quantum network,0
+C166576357,Y-factor,C168090291,Classical capacity,0
+C166576357,Y-factor,C109546105,Flux qubit,0
+C166576357,Y-factor,C11255438,Quantum process,0
+C166576357,Y-factor,C165973109,Quantum probability,0
+C166576357,Y-factor,C164215192,Asymptotic computational complexity,0
+C166576357,Y-factor,C74939445,Cavity quantum electrodynamics,0
+C166576357,Y-factor,C131671149,Universal Turing machine,0
+C166576357,Y-factor,C112806910,Noise figure,1.3272716180510837
+C166576357,Y-factor,C131583701,Structural complexity theory,0
+C166576357,Y-factor,C206040425,Amplitude damping channel,0
+C166576357,Y-factor,C199508470,Stochastic electrodynamics,0
+C166576357,Y-factor,C177414767,Supersymmetric quantum mechanics,0
+C166576357,Y-factor,C177715462,Superintegrable Hamiltonian system,0
+C166576357,Y-factor,C15547884,DTIME,0
+C166576357,Y-factor,C41241483,Quantum capacity,0
+C166576357,Y-factor,C2781190263,Circuit quantum electrodynamics,0
+C166576357,Y-factor,C182953411,Controlled NOT gate,0
+C166576357,Y-factor,C192353077,Adiabatic quantum computation,0
+C207046469,Interpretations of quantum mechanics,C192353077,Adiabatic quantum computation,0
+C207046469,Interpretations of quantum mechanics,C186468114,Quantum network,0
+C207046469,Interpretations of quantum mechanics,C168090291,Classical capacity,0
+C207046469,Interpretations of quantum mechanics,C109546105,Flux qubit,0
+C207046469,Interpretations of quantum mechanics,C164215192,Asymptotic computational complexity,0
+C207046469,Interpretations of quantum mechanics,C74939445,Cavity quantum electrodynamics,0
+C207046469,Interpretations of quantum mechanics,C131671149,Universal Turing machine,0
+C207046469,Interpretations of quantum mechanics,C112806910,Noise figure,0
+C207046469,Interpretations of quantum mechanics,C131583701,Structural complexity theory,0
+C207046469,Interpretations of quantum mechanics,C206040425,Amplitude damping channel,0
+C207046469,Interpretations of quantum mechanics,C39197057,Magnetic flux quantum,0
+C207046469,Interpretations of quantum mechanics,C199508470,Stochastic electrodynamics,0
+C207046469,Interpretations of quantum mechanics,C111861475,Quantum amplifier,0
+C207046469,Interpretations of quantum mechanics,C177715462,Superintegrable Hamiltonian system,0
+C207046469,Interpretations of quantum mechanics,C71041172,Linear amplifier,0
+C207046469,Interpretations of quantum mechanics,C15547884,DTIME,0
+C207046469,Interpretations of quantum mechanics,C41241483,Quantum capacity,0
+C207046469,Interpretations of quantum mechanics,C155332784,Low-noise amplifier,0
+C207046469,Interpretations of quantum mechanics,C182953411,Controlled NOT gate,0
+C207046469,Interpretations of quantum mechanics,C2781190263,Circuit quantum electrodynamics,0
+C207046469,Interpretations of quantum mechanics,C51003876,Quantum error correction,0
+C207046469,Interpretations of quantum mechanics,C90408235,Quantum annealing,0
+C207046469,Interpretations of quantum mechanics,C145366948,Operational amplifier,0
+C207046469,Interpretations of quantum mechanics,C187486625,Quantum channel,0
+C207046469,Interpretations of quantum mechanics,C89143813,Quantum sensor,0
+C155332784,Low-noise amplifier,C90408235,Quantum annealing,0
+C155332784,Low-noise amplifier,C39197057,Magnetic flux quantum,0
+C155332784,Low-noise amplifier,C187486625,Quantum channel,0
+C155332784,Low-noise amplifier,C89143813,Quantum sensor,0
+C155332784,Low-noise amplifier,C186468114,Quantum network,0
+C155332784,Low-noise amplifier,C168090291,Classical capacity,0
+C155332784,Low-noise amplifier,C109546105,Flux qubit,0
+C155332784,Low-noise amplifier,C11255438,Quantum process,0
+C155332784,Low-noise amplifier,C165973109,Quantum probability,0
+C155332784,Low-noise amplifier,C164215192,Asymptotic computational complexity,0
+C155332784,Low-noise amplifier,C74939445,Cavity quantum electrodynamics,0
+C155332784,Low-noise amplifier,C131671149,Universal Turing machine,0
+C155332784,Low-noise amplifier,C112806910,Noise figure,1.3272716180510837
+C155332784,Low-noise amplifier,C131583701,Structural complexity theory,0
+C155332784,Low-noise amplifier,C206040425,Amplitude damping channel,0
+C155332784,Low-noise amplifier,C199508470,Stochastic electrodynamics,0
+C155332784,Low-noise amplifier,C177414767,Supersymmetric quantum mechanics,0
+C155332784,Low-noise amplifier,C177715462,Superintegrable Hamiltonian system,0
+C155332784,Low-noise amplifier,C15547884,DTIME,0
+C155332784,Low-noise amplifier,C41241483,Quantum capacity,0
+C155332784,Low-noise amplifier,C2781190263,Circuit quantum electrodynamics,0
+C155332784,Low-noise amplifier,C182953411,Controlled NOT gate,0
+C155332784,Low-noise amplifier,C192353077,Adiabatic quantum computation,0
+C90408235,Quantum annealing,C192353077,Adiabatic quantum computation,0
+C90408235,Quantum annealing,C186468114,Quantum network,0
+C90408235,Quantum annealing,C168090291,Classical capacity,0
+C90408235,Quantum annealing,C109546105,Flux qubit,0
+C90408235,Quantum annealing,C11255438,Quantum process,0
+C90408235,Quantum annealing,C165973109,Quantum probability,0
+C90408235,Quantum annealing,C164215192,Asymptotic computational complexity,0
+C90408235,Quantum annealing,C74939445,Cavity quantum electrodynamics,0
+C90408235,Quantum annealing,C131671149,Universal Turing machine,0
+C90408235,Quantum annealing,C112806910,Noise figure,0
+C90408235,Quantum annealing,C131583701,Structural complexity theory,0
+C90408235,Quantum annealing,C206040425,Amplitude damping channel,0
+C90408235,Quantum annealing,C39197057,Magnetic flux quantum,0
+C90408235,Quantum annealing,C199508470,Stochastic electrodynamics,0
+C90408235,Quantum annealing,C177414767,Supersymmetric quantum mechanics,0
+C90408235,Quantum annealing,C111861475,Quantum amplifier,0
+C90408235,Quantum annealing,C177715462,Superintegrable Hamiltonian system,0
+C90408235,Quantum annealing,C71041172,Linear amplifier,0
+C90408235,Quantum annealing,C15547884,DTIME,0
+C90408235,Quantum annealing,C41241483,Quantum capacity,0
+C90408235,Quantum annealing,C2781190263,Circuit quantum electrodynamics,0
+C90408235,Quantum annealing,C51003876,Quantum error correction,0
+C90408235,Quantum annealing,C145366948,Operational amplifier,0
+C90408235,Quantum annealing,C182953411,Controlled NOT gate,0
+C90408235,Quantum annealing,C187486625,Quantum channel,0
+C90408235,Quantum annealing,C89143813,Quantum sensor,0
+C187486625,Quantum channel,C192353077,Adiabatic quantum computation,0
+C187486625,Quantum channel,C109546105,Flux qubit,0
+C187486625,Quantum channel,C11255438,Quantum process,0
+C187486625,Quantum channel,C165973109,Quantum probability,0
+C187486625,Quantum channel,C164215192,Asymptotic computational complexity,0
+C187486625,Quantum channel,C74939445,Cavity quantum electrodynamics,0
+C187486625,Quantum channel,C131671149,Universal Turing machine,0
+C187486625,Quantum channel,C112806910,Noise figure,0
+C187486625,Quantum channel,C131583701,Structural complexity theory,0
+C187486625,Quantum channel,C199508470,Stochastic electrodynamics,0
+C187486625,Quantum channel,C177414767,Supersymmetric quantum mechanics,0
+C187486625,Quantum channel,C111861475,Quantum amplifier,0
+C187486625,Quantum channel,C177715462,Superintegrable Hamiltonian system,0
+C187486625,Quantum channel,C71041172,Linear amplifier,0
+C187486625,Quantum channel,C15547884,DTIME,0
+C187486625,Quantum channel,C2781190263,Circuit quantum electrodynamics,0
+C187486625,Quantum channel,C51003876,Quantum error correction,0
+C187486625,Quantum channel,C145366948,Operational amplifier,0
+C187486625,Quantum channel,C182953411,Controlled NOT gate,0
+C187486625,Quantum channel,C39197057,Magnetic flux quantum,0
+C187486625,Quantum channel,C89143813,Quantum sensor,0.8241657271545318
+C39197057,Magnetic flux quantum,C192353077,Adiabatic quantum computation,0
+C39197057,Magnetic flux quantum,C186468114,Quantum network,0
+C39197057,Magnetic flux quantum,C168090291,Classical capacity,0
+C39197057,Magnetic flux quantum,C11255438,Quantum process,0
+C39197057,Magnetic flux quantum,C165973109,Quantum probability,0
+C39197057,Magnetic flux quantum,C164215192,Asymptotic computational complexity,0
+C39197057,Magnetic flux quantum,C74939445,Cavity quantum electrodynamics,0
+C39197057,Magnetic flux quantum,C131671149,Universal Turing machine,0
+C39197057,Magnetic flux quantum,C112806910,Noise figure,0
+C39197057,Magnetic flux quantum,C131583701,Structural complexity theory,0
+C39197057,Magnetic flux quantum,C206040425,Amplitude damping channel,0
+C39197057,Magnetic flux quantum,C199508470,Stochastic electrodynamics,0
+C39197057,Magnetic flux quantum,C177414767,Supersymmetric quantum mechanics,0
+C39197057,Magnetic flux quantum,C111861475,Quantum amplifier,0
+C39197057,Magnetic flux quantum,C177715462,Superintegrable Hamiltonian system,0
+C39197057,Magnetic flux quantum,C71041172,Linear amplifier,0
+C39197057,Magnetic flux quantum,C15547884,DTIME,0
+C39197057,Magnetic flux quantum,C41241483,Quantum capacity,0
+C39197057,Magnetic flux quantum,C2781190263,Circuit quantum electrodynamics,0
+C39197057,Magnetic flux quantum,C51003876,Quantum error correction,0
+C39197057,Magnetic flux quantum,C145366948,Operational amplifier,0
+C39197057,Magnetic flux quantum,C182953411,Controlled NOT gate,0
+C39197057,Magnetic flux quantum,C89143813,Quantum sensor,0
+C89143813,Quantum sensor,C109546105,Flux qubit,0
+C89143813,Quantum sensor,C168090291,Classical capacity,0.8241657271545318
+C89143813,Quantum sensor,C11255438,Quantum process,0
+C89143813,Quantum sensor,C165973109,Quantum probability,0
+C89143813,Quantum sensor,C164215192,Asymptotic computational complexity,0
+C89143813,Quantum sensor,C74939445,Cavity quantum electrodynamics,0
+C89143813,Quantum sensor,C131671149,Universal Turing machine,0
+C89143813,Quantum sensor,C112806910,Noise figure,0
+C89143813,Quantum sensor,C131583701,Structural complexity theory,0
+C89143813,Quantum sensor,C206040425,Amplitude damping channel,0.3898712452512801
+C89143813,Quantum sensor,C199508470,Stochastic electrodynamics,0
+C89143813,Quantum sensor,C177414767,Supersymmetric quantum mechanics,0
+C89143813,Quantum sensor,C111861475,Quantum amplifier,0
+C89143813,Quantum sensor,C177715462,Superintegrable Hamiltonian system,0
+C89143813,Quantum sensor,C71041172,Linear amplifier,0
+C89143813,Quantum sensor,C15547884,DTIME,0
+C89143813,Quantum sensor,C41241483,Quantum capacity,0.8241657271545318
+C89143813,Quantum sensor,C2781190263,Circuit quantum electrodynamics,0
+C89143813,Quantum sensor,C51003876,Quantum error correction,0
+C89143813,Quantum sensor,C145366948,Operational amplifier,0
+C89143813,Quantum sensor,C182953411,Controlled NOT gate,0
+C89143813,Quantum sensor,C192353077,Adiabatic quantum computation,0
+C186468114,Quantum network,C109546105,Flux qubit,0
+C186468114,Quantum network,C11255438,Quantum process,0
+C186468114,Quantum network,C165973109,Quantum probability,0
+C186468114,Quantum network,C164215192,Asymptotic computational complexity,0
+C186468114,Quantum network,C74939445,Cavity quantum electrodynamics,0
+C186468114,Quantum network,C131671149,Universal Turing machine,0
+C186468114,Quantum network,C112806910,Noise figure,0
+C186468114,Quantum network,C131583701,Structural complexity theory,0
+C186468114,Quantum network,C199508470,Stochastic electrodynamics,0
+C186468114,Quantum network,C177414767,Supersymmetric quantum mechanics,0
+C186468114,Quantum network,C111861475,Quantum amplifier,0
+C186468114,Quantum network,C177715462,Superintegrable Hamiltonian system,0
+C186468114,Quantum network,C71041172,Linear amplifier,0
+C186468114,Quantum network,C15547884,DTIME,0
+C186468114,Quantum network,C2781190263,Circuit quantum electrodynamics,0
+C186468114,Quantum network,C51003876,Quantum error correction,1.531574161186449
+C186468114,Quantum network,C145366948,Operational amplifier,0
+C186468114,Quantum network,C182953411,Controlled NOT gate,0.6213349345596119
+C186468114,Quantum network,C192353077,Adiabatic quantum computation,0
+C168090291,Classical capacity,C109546105,Flux qubit,0
+C168090291,Classical capacity,C11255438,Quantum process,0
+C168090291,Classical capacity,C165973109,Quantum probability,0
+C168090291,Classical capacity,C164215192,Asymptotic computational complexity,0
+C168090291,Classical capacity,C74939445,Cavity quantum electrodynamics,0
+C168090291,Classical capacity,C131671149,Universal Turing machine,0
+C168090291,Classical capacity,C112806910,Noise figure,0
+C168090291,Classical capacity,C131583701,Structural complexity theory,0
+C168090291,Classical capacity,C206040425,Amplitude damping channel,1.6325411143705038
+C168090291,Classical capacity,C199508470,Stochastic electrodynamics,0
+C168090291,Classical capacity,C177414767,Supersymmetric quantum mechanics,0
+C168090291,Classical capacity,C111861475,Quantum amplifier,0
+C168090291,Classical capacity,C177715462,Superintegrable Hamiltonian system,0
+C168090291,Classical capacity,C71041172,Linear amplifier,0
+C168090291,Classical capacity,C15547884,DTIME,0
+C168090291,Classical capacity,C2781190263,Circuit quantum electrodynamics,0
+C168090291,Classical capacity,C51003876,Quantum error correction,0
+C168090291,Classical capacity,C145366948,Operational amplifier,0
+C168090291,Classical capacity,C182953411,Controlled NOT gate,0
+C168090291,Classical capacity,C192353077,Adiabatic quantum computation,0
+C109546105,Flux qubit,C11255438,Quantum process,0
+C109546105,Flux qubit,C165973109,Quantum probability,0
+C109546105,Flux qubit,C164215192,Asymptotic computational complexity,0
+C109546105,Flux qubit,C74939445,Cavity quantum electrodynamics,0
+C109546105,Flux qubit,C131671149,Universal Turing machine,0
+C109546105,Flux qubit,C112806910,Noise figure,0
+C109546105,Flux qubit,C131583701,Structural complexity theory,0
+C109546105,Flux qubit,C206040425,Amplitude damping channel,0
+C109546105,Flux qubit,C199508470,Stochastic electrodynamics,0
+C109546105,Flux qubit,C177414767,Supersymmetric quantum mechanics,0
+C109546105,Flux qubit,C111861475,Quantum amplifier,0
+C109546105,Flux qubit,C177715462,Superintegrable Hamiltonian system,0
+C109546105,Flux qubit,C71041172,Linear amplifier,0
+C109546105,Flux qubit,C15547884,DTIME,0
+C109546105,Flux qubit,C41241483,Quantum capacity,0
+C109546105,Flux qubit,C2781190263,Circuit quantum electrodynamics,0
+C109546105,Flux qubit,C51003876,Quantum error correction,0
+C109546105,Flux qubit,C145366948,Operational amplifier,0
+C109546105,Flux qubit,C182953411,Controlled NOT gate,0
+C109546105,Flux qubit,C192353077,Adiabatic quantum computation,0
+C11255438,Quantum process,C206040425,Amplitude damping channel,0
+C11255438,Quantum process,C199508470,Stochastic electrodynamics,0
+C11255438,Quantum process,C111861475,Quantum amplifier,0
+C11255438,Quantum process,C177715462,Superintegrable Hamiltonian system,0
+C11255438,Quantum process,C164215192,Asymptotic computational complexity,0
+C11255438,Quantum process,C71041172,Linear amplifier,0
+C11255438,Quantum process,C74939445,Cavity quantum electrodynamics,0
+C11255438,Quantum process,C15547884,DTIME,0
+C11255438,Quantum process,C41241483,Quantum capacity,0
+C11255438,Quantum process,C182953411,Controlled NOT gate,0
+C11255438,Quantum process,C131671149,Universal Turing machine,0
+C11255438,Quantum process,C2781190263,Circuit quantum electrodynamics,0
+C11255438,Quantum process,C51003876,Quantum error correction,0
+C11255438,Quantum process,C145366948,Operational amplifier,0
+C11255438,Quantum process,C192353077,Adiabatic quantum computation,0
+C11255438,Quantum process,C112806910,Noise figure,0
+C11255438,Quantum process,C131583701,Structural complexity theory,0
+C165973109,Quantum probability,C206040425,Amplitude damping channel,0
+C165973109,Quantum probability,C199508470,Stochastic electrodynamics,0
+C165973109,Quantum probability,C111861475,Quantum amplifier,0
+C165973109,Quantum probability,C177715462,Superintegrable Hamiltonian system,0
+C165973109,Quantum probability,C164215192,Asymptotic computational complexity,0
+C165973109,Quantum probability,C71041172,Linear amplifier,0
+C165973109,Quantum probability,C74939445,Cavity quantum electrodynamics,0
+C165973109,Quantum probability,C15547884,DTIME,0
+C165973109,Quantum probability,C41241483,Quantum capacity,0
+C165973109,Quantum probability,C182953411,Controlled NOT gate,0
+C165973109,Quantum probability,C131671149,Universal Turing machine,0
+C165973109,Quantum probability,C2781190263,Circuit quantum electrodynamics,0
+C165973109,Quantum probability,C51003876,Quantum error correction,0
+C165973109,Quantum probability,C145366948,Operational amplifier,0
+C165973109,Quantum probability,C192353077,Adiabatic quantum computation,0
+C165973109,Quantum probability,C112806910,Noise figure,0
+C165973109,Quantum probability,C131583701,Structural complexity theory,0
+C164215192,Asymptotic computational complexity,C206040425,Amplitude damping channel,0
+C164215192,Asymptotic computational complexity,C199508470,Stochastic electrodynamics,0
+C164215192,Asymptotic computational complexity,C177414767,Supersymmetric quantum mechanics,0
+C164215192,Asymptotic computational complexity,C111861475,Quantum amplifier,0
+C164215192,Asymptotic computational complexity,C177715462,Superintegrable Hamiltonian system,0
+C164215192,Asymptotic computational complexity,C71041172,Linear amplifier,0
+C164215192,Asymptotic computational complexity,C74939445,Cavity quantum electrodynamics,0
+C164215192,Asymptotic computational complexity,C41241483,Quantum capacity,0
+C164215192,Asymptotic computational complexity,C2781190263,Circuit quantum electrodynamics,0
+C164215192,Asymptotic computational complexity,C51003876,Quantum error correction,0
+C164215192,Asymptotic computational complexity,C145366948,Operational amplifier,0
+C164215192,Asymptotic computational complexity,C182953411,Controlled NOT gate,0
+C164215192,Asymptotic computational complexity,C192353077,Adiabatic quantum computation,0
+C164215192,Asymptotic computational complexity,C112806910,Noise figure,0
+C74939445,Cavity quantum electrodynamics,C131671149,Universal Turing machine,0
+C74939445,Cavity quantum electrodynamics,C112806910,Noise figure,0
+C74939445,Cavity quantum electrodynamics,C131583701,Structural complexity theory,0
+C74939445,Cavity quantum electrodynamics,C206040425,Amplitude damping channel,0
+C74939445,Cavity quantum electrodynamics,C177414767,Supersymmetric quantum mechanics,0
+C74939445,Cavity quantum electrodynamics,C111861475,Quantum amplifier,0
+C74939445,Cavity quantum electrodynamics,C177715462,Superintegrable Hamiltonian system,0
+C74939445,Cavity quantum electrodynamics,C71041172,Linear amplifier,0
+C74939445,Cavity quantum electrodynamics,C15547884,DTIME,0
+C74939445,Cavity quantum electrodynamics,C41241483,Quantum capacity,0
+C74939445,Cavity quantum electrodynamics,C51003876,Quantum error correction,0
+C74939445,Cavity quantum electrodynamics,C145366948,Operational amplifier,0
+C74939445,Cavity quantum electrodynamics,C182953411,Controlled NOT gate,0
+C74939445,Cavity quantum electrodynamics,C192353077,Adiabatic quantum computation,0
+C131671149,Universal Turing machine,C206040425,Amplitude damping channel,0
+C131671149,Universal Turing machine,C199508470,Stochastic electrodynamics,0
+C131671149,Universal Turing machine,C177414767,Supersymmetric quantum mechanics,0
+C131671149,Universal Turing machine,C111861475,Quantum amplifier,0
+C131671149,Universal Turing machine,C177715462,Superintegrable Hamiltonian system,0
+C131671149,Universal Turing machine,C71041172,Linear amplifier,0
+C131671149,Universal Turing machine,C41241483,Quantum capacity,0
+C131671149,Universal Turing machine,C2781190263,Circuit quantum electrodynamics,0
+C131671149,Universal Turing machine,C51003876,Quantum error correction,0
+C131671149,Universal Turing machine,C145366948,Operational amplifier,0
+C131671149,Universal Turing machine,C182953411,Controlled NOT gate,0
+C131671149,Universal Turing machine,C192353077,Adiabatic quantum computation,0
+C131671149,Universal Turing machine,C112806910,Noise figure,0
+C112806910,Noise figure,C206040425,Amplitude damping channel,0
+C112806910,Noise figure,C199508470,Stochastic electrodynamics,0
+C112806910,Noise figure,C177414767,Supersymmetric quantum mechanics,0
+C112806910,Noise figure,C177715462,Superintegrable Hamiltonian system,0
+C112806910,Noise figure,C71041172,Linear amplifier,1.3272716180510837
+C112806910,Noise figure,C15547884,DTIME,0
+C112806910,Noise figure,C41241483,Quantum capacity,0
+C112806910,Noise figure,C2781190263,Circuit quantum electrodynamics,0
+C112806910,Noise figure,C145366948,Operational amplifier,1.3272716180510837
+C112806910,Noise figure,C182953411,Controlled NOT gate,0
+C112806910,Noise figure,C192353077,Adiabatic quantum computation,0
+C112806910,Noise figure,C131583701,Structural complexity theory,0
+C131583701,Structural complexity theory,C206040425,Amplitude damping channel,0
+C131583701,Structural complexity theory,C199508470,Stochastic electrodynamics,0
+C131583701,Structural complexity theory,C177414767,Supersymmetric quantum mechanics,0
+C131583701,Structural complexity theory,C111861475,Quantum amplifier,0
+C131583701,Structural complexity theory,C177715462,Superintegrable Hamiltonian system,0
+C131583701,Structural complexity theory,C71041172,Linear amplifier,0
+C131583701,Structural complexity theory,C41241483,Quantum capacity,0
+C131583701,Structural complexity theory,C2781190263,Circuit quantum electrodynamics,0
+C131583701,Structural complexity theory,C51003876,Quantum error correction,0
+C131583701,Structural complexity theory,C145366948,Operational amplifier,0
+C131583701,Structural complexity theory,C182953411,Controlled NOT gate,0
+C131583701,Structural complexity theory,C192353077,Adiabatic quantum computation,0
+C206040425,Amplitude damping channel,C199508470,Stochastic electrodynamics,0
+C206040425,Amplitude damping channel,C177414767,Supersymmetric quantum mechanics,0
+C206040425,Amplitude damping channel,C111861475,Quantum amplifier,0
+C206040425,Amplitude damping channel,C177715462,Superintegrable Hamiltonian system,0
+C206040425,Amplitude damping channel,C71041172,Linear amplifier,0
+C206040425,Amplitude damping channel,C15547884,DTIME,0
+C206040425,Amplitude damping channel,C2781190263,Circuit quantum electrodynamics,0
+C206040425,Amplitude damping channel,C51003876,Quantum error correction,0
+C206040425,Amplitude damping channel,C145366948,Operational amplifier,0
+C206040425,Amplitude damping channel,C182953411,Controlled NOT gate,0
+C206040425,Amplitude damping channel,C192353077,Adiabatic quantum computation,0
+C199508470,Stochastic electrodynamics,C177414767,Supersymmetric quantum mechanics,0
+C199508470,Stochastic electrodynamics,C111861475,Quantum amplifier,0
+C199508470,Stochastic electrodynamics,C177715462,Superintegrable Hamiltonian system,0
+C199508470,Stochastic electrodynamics,C71041172,Linear amplifier,0
+C199508470,Stochastic electrodynamics,C15547884,DTIME,0
+C199508470,Stochastic electrodynamics,C41241483,Quantum capacity,0
+C199508470,Stochastic electrodynamics,C51003876,Quantum error correction,0
+C199508470,Stochastic electrodynamics,C145366948,Operational amplifier,0
+C199508470,Stochastic electrodynamics,C182953411,Controlled NOT gate,0
+C199508470,Stochastic electrodynamics,C192353077,Adiabatic quantum computation,0
+C177414767,Supersymmetric quantum mechanics,C111861475,Quantum amplifier,0
+C177414767,Supersymmetric quantum mechanics,C177715462,Superintegrable Hamiltonian system,0
+C177414767,Supersymmetric quantum mechanics,C71041172,Linear amplifier,0
+C177414767,Supersymmetric quantum mechanics,C15547884,DTIME,0
+C177414767,Supersymmetric quantum mechanics,C41241483,Quantum capacity,0
+C177414767,Supersymmetric quantum mechanics,C2781190263,Circuit quantum electrodynamics,0
+C177414767,Supersymmetric quantum mechanics,C51003876,Quantum error correction,0
+C177414767,Supersymmetric quantum mechanics,C145366948,Operational amplifier,0
+C177414767,Supersymmetric quantum mechanics,C182953411,Controlled NOT gate,0
+C177414767,Supersymmetric quantum mechanics,C192353077,Adiabatic quantum computation,0
+C111861475,Quantum amplifier,C177715462,Superintegrable Hamiltonian system,0
+C111861475,Quantum amplifier,C15547884,DTIME,0
+C111861475,Quantum amplifier,C41241483,Quantum capacity,0
+C111861475,Quantum amplifier,C2781190263,Circuit quantum electrodynamics,0
+C111861475,Quantum amplifier,C182953411,Controlled NOT gate,0
+C111861475,Quantum amplifier,C192353077,Adiabatic quantum computation,0
+C177715462,Superintegrable Hamiltonian system,C71041172,Linear amplifier,0
+C177715462,Superintegrable Hamiltonian system,C15547884,DTIME,0
+C177715462,Superintegrable Hamiltonian system,C41241483,Quantum capacity,0
+C177715462,Superintegrable Hamiltonian system,C2781190263,Circuit quantum electrodynamics,0
+C177715462,Superintegrable Hamiltonian system,C51003876,Quantum error correction,0
+C177715462,Superintegrable Hamiltonian system,C145366948,Operational amplifier,0
+C177715462,Superintegrable Hamiltonian system,C182953411,Controlled NOT gate,0
+C71041172,Linear amplifier,C15547884,DTIME,0
+C71041172,Linear amplifier,C41241483,Quantum capacity,0
+C71041172,Linear amplifier,C2781190263,Circuit quantum electrodynamics,0
+C71041172,Linear amplifier,C182953411,Controlled NOT gate,0
+C71041172,Linear amplifier,C192353077,Adiabatic quantum computation,0
+C15547884,DTIME,C41241483,Quantum capacity,0
+C15547884,DTIME,C2781190263,Circuit quantum electrodynamics,0
+C15547884,DTIME,C145366948,Operational amplifier,0
+C15547884,DTIME,C51003876,Quantum error correction,0
+C15547884,DTIME,C182953411,Controlled NOT gate,0
+C15547884,DTIME,C192353077,Adiabatic quantum computation,0
+C41241483,Quantum capacity,C2781190263,Circuit quantum electrodynamics,0
+C41241483,Quantum capacity,C145366948,Operational amplifier,0
+C41241483,Quantum capacity,C51003876,Quantum error correction,0
+C41241483,Quantum capacity,C182953411,Controlled NOT gate,0
+C41241483,Quantum capacity,C192353077,Adiabatic quantum computation,0
+C2781190263,Circuit quantum electrodynamics,C182953411,Controlled NOT gate,0
+C2781190263,Circuit quantum electrodynamics,C145366948,Operational amplifier,0
+C2781190263,Circuit quantum electrodynamics,C192353077,Adiabatic quantum computation,0
+C2781190263,Circuit quantum electrodynamics,C51003876,Quantum error correction,0
+C51003876,Quantum error correction,C182953411,Controlled NOT gate,0.6213349345596119
+C51003876,Quantum error correction,C192353077,Adiabatic quantum computation,0
+C145366948,Operational amplifier,C182953411,Controlled NOT gate,0
+C145366948,Operational amplifier,C192353077,Adiabatic quantum computation,0
+C182953411,Controlled NOT gate,C192353077,Adiabatic quantum computation,0
