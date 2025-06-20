@@ -17,7 +17,7 @@ This file has several modules explained below. To use them, please pull the enti
 
 Together, these scripts provide a full pipeline from raw data acquisition to advanced scientometric analysis and visualization of the evolving structure of the quantum networks research field.
 
-## Import
+# Import
 
 Fetches metadata for papers related to the focal concept "Quantum Networks" from the OpenAlex API and exports them as a CSV file for further analysis.
 
@@ -39,7 +39,7 @@ Fetches metadata for papers related to the focal concept "Quantum Networks" from
 - The script is easily adaptable for other OpenAlex concept IDs.
 
 
-## Analysis
+# Analysis
 
 1. **Fetches yearly citation counts** for each paper using the OpenAlex API.
 2. **Processes concepts** assigned to each paper, keeping only those above a certain semantic level.
@@ -89,7 +89,7 @@ For every paper in `quantum_networks_papers.csv`, query OpenAlex to get its year
 1. (ONLY IF YOU WANT TO USE ANOTHER SUBSET!!)**Run the citation fetching step** (once, as it is slow), by uncommenting and calling `mainlog()`.
 2. **Run the analysis step** with `analysis11_with_citations()`. You can change the `level_threshold` parameter as needed.
 
-## Graph
+# Graph
 
 Analyzes yearly concept pair co-occurrence graphs, focusing on the relationship between the number of papers (weight) and citation metrics. It produces several figures that help understand the statistical structure and dynamics of concept co-occurrence in a scientific field.
 
@@ -126,7 +126,7 @@ However, as this figure shows, the curve is flat: each article brings about the 
 **Interpretation:**
 The superlinear relationship seen in Figure 2 may just result from the fact that highly-studied pairs have more articles and thus more total citations—but not more citations per article. Despite the positive relation between total article and citation counts, this does not come from increased yield per article, but simple arithmetic accumulation: more articles means more citations, but each article is, on average, just as "productive" as others.
 
-## Success
+# Success
 
 Analyzes pairs of scientific concepts from yearly co-occurrence edge lists, computes metrics, ranks pairs in various ways (total citations, growth, newcomers, etc.), and visualizes their evolution over time.
 
@@ -202,7 +202,7 @@ Each selected pair gets two figures:
 - Change the `k` parameter in `run_all_rankings` to select more or fewer pairs per mode.
 - To export all newcomer pairs, use the commented code at the end of the script.
 
-## Individual Adamic Adar index
+# Individual Adamic Adar index
 
 This script visualizes the temporal evolution of the Adamic-Adar score for a specific pair of concepts, based on their OpenAlex concept IDs. The Adamic-Adar score is a network proximity metric often used in link prediction and scientometrics.
 It's the one Carolina made, please go to her folder for more details.
