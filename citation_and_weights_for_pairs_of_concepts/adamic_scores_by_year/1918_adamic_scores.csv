@@ -1,0 +1,7 @@
+Concept1_ID,Concept1_Name,Concept2_ID,Concept2_Name,AdamicAdarScore
+C206040425,Amplitude damping channel,C124148022,Quantum circuit,0
+C206040425,Amplitude damping channel,C186468114,Quantum network,0
+C206040425,Amplitude damping channel,C58849907,Quantum gate,0
+C124148022,Quantum circuit,C139356082,Quantum discord,0
+C186468114,Quantum network,C139356082,Quantum discord,0
+C58849907,Quantum gate,C139356082,Quantum discord,0
