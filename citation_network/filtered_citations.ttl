@@ -1,0 +1,120 @@
+@prefix ns1: <http://example.org/citation#> .
+
+<http://example.org/paper#W1514675880> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W2035993353>,
+        <http://example.org/paper#W2142739935> ;
+    ns1:publication_date "2007-01-24" ;
+    ns1:title "Linear optical quantum computing with photonic qubits" .
+
+<http://example.org/paper#W1970948459> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1999706070>,
+        <http://example.org/paper#W2035993353>,
+        <http://example.org/paper#W2042474962>,
+        <http://example.org/paper#W2060887031>,
+        <http://example.org/paper#W2142739935>,
+        <http://example.org/paper#W3037737784> ;
+    ns1:publication_date "2012-05-01" ;
+    ns1:title "Gaussian quantum information" .
+
+<http://example.org/paper#W1981983416> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1999664967> ;
+    ns1:publication_date "2011-03-31" ;
+    ns1:title "Advances in quantum metrology" .
+
+<http://example.org/paper#W1995672555> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W2037522026> ;
+    ns1:publication_date "2003-03-10" ;
+    ns1:title "Quantum dynamics of single trapped ions" .
+
+<http://example.org/paper#W2132764286> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1999664967>,
+        <http://example.org/paper#W2092105345> ;
+    ns1:publication_date "2008-06-01" ;
+    ns1:title "The quantum internet" .
+
+<http://example.org/paper#W2781738013> a ns1:Paper ;
+    ns1:publication_date "2018-08-06" ;
+    ns1:title "Quantum Computing in the NISQ era and beyond" .
+
+<http://example.org/paper#W2990961515> a ns1:Paper ;
+    ns1:publication_date "2012-06-05" ;
+    ns1:title "Quantum Computation and Quantum Information" .
+
+<http://example.org/paper#W32507011> a ns1:Paper ;
+    ns1:publication_date "2011-01-31" ;
+    ns1:title "Quantum Computation and Quantum Information: 10th Anniversary Edition" .
+
+<http://example.org/paper#W3037737784> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1623920228>,
+        <http://example.org/paper#W1999664967>,
+        <http://example.org/paper#W1999706070>,
+        <http://example.org/paper#W2035993353>,
+        <http://example.org/paper#W2037522026>,
+        <http://example.org/paper#W2042474962>,
+        <http://example.org/paper#W2060887031>,
+        <http://example.org/paper#W2092105345>,
+        <http://example.org/paper#W2148132004> ;
+    ns1:publication_date "2009-06-17" ;
+    ns1:title "Quantum entanglement" .
+
+<http://example.org/paper#W2037522026> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1623920228>,
+        <http://example.org/paper#W2042474962> ;
+    ns1:publication_date "2001-08-28" ;
+    ns1:title "Manipulating quantum entanglement with atoms and photons in a cavity" .
+
+<http://example.org/paper#W2102008187> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W2148132004> ;
+    ns1:publication_date "1995-11-01" ;
+    ns1:title "Elementary gates for quantum computation" .
+
+<http://example.org/paper#W2142739935> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1623920228>,
+        <http://example.org/paper#W1999706070>,
+        <http://example.org/paper#W2060887031>,
+        <http://example.org/paper#W2092105345> ;
+    ns1:publication_date "2005-06-29" ;
+    ns1:title "Quantum information with continuous variables" .
+
+<http://example.org/paper#W1999664967> a ns1:Paper ;
+    ns1:publication_date "2004-11-18" ;
+    ns1:title "Quantum-Enhanced Measurements: Beating the Standard Quantum Limit" .
+
+<http://example.org/paper#W2035993353> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W2042474962>,
+        <http://example.org/paper#W2102008187> ;
+    ns1:publication_date "2001-05-28" ;
+    ns1:title "A One-Way Quantum Computer" .
+
+<http://example.org/paper#W2092105345> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1623920228>,
+        <http://example.org/paper#W2060887031> ;
+    ns1:publication_date "1998-12-28" ;
+    ns1:title "Quantum Repeaters: The Role of Imperfect Local Operations in Quantum Communication" .
+
+<http://example.org/paper#W1623920228> a ns1:Paper ;
+    ns1:publication_date "1997-12-01" ;
+    ns1:title "Experimental quantum teleportation" .
+
+<http://example.org/paper#W2060887031> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1999706070>,
+        <http://example.org/paper#W2042474962>,
+        <http://example.org/paper#W2102008187> ;
+    ns1:publication_date "1996-11-01" ;
+    ns1:title "Mixed-state entanglement and quantum error correction" .
+
+<http://example.org/paper#W2148132004> a ns1:Paper ;
+    ns1:publication_date "1985-07-08" ;
+    ns1:title "Quantum theory, the Church–Turing principle and the universal quantum computer" .
+
+<http://example.org/paper#W1999706070> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W2148132004> ;
+    ns1:publication_date "1995-10-01" ;
+    ns1:title "Scheme for reducing decoherence in quantum computer memory" .
+
+<http://example.org/paper#W2042474962> a ns1:Paper ;
+    ns1:cites <http://example.org/paper#W1999706070>,
+        <http://example.org/paper#W2148132004> ;
+    ns1:publication_date "1996-07-29" ;
+    ns1:title "Error Correcting Codes in Quantum Theory" .
+

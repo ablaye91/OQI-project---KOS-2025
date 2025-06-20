@@ -1,0 +1,101 @@
+unique_id,id,title,publication_date
+n1,http://example.org/paper#W1986933492,Hybrid quantum circuits: Superconducting circuits interacting with other quantum systems,2013-04-09
+n2,http://example.org/paper#W2041251400,Single-photon detectors for optical quantum information applications,2009-11-30
+n3,http://example.org/paper#W1963736202,Optical quantum memory,2009-11-30
+n4,http://example.org/paper#W32507011,Quantum Computation and Quantum Information: 10th Anniversary Edition,2011-01-31
+n5,http://example.org/paper#W2058698962,An open-system quantum simulator with trapped ions,2011-02-01
+n6,http://example.org/paper#W2101088258,Quantum computational networks,1989-09-08
+n7,http://example.org/paper#W1980583020,Nanoscale magnetic sensing with an individual electronic spin in diamond,2008-10-01
+n8,http://example.org/paper#W2103368228,Measurement-based quantum computation on cluster states,2003-08-25
+n9,http://example.org/paper#W2074117827,Architecture for a large-scale ion-trap quantum computer,2002-06-01
+n10,http://example.org/paper#W2090475034,Optical imaging by means of two-photon quantum entanglement,1995-11-01
+n11,http://example.org/paper#W2148132004,"Quantum theory, the Church–Turing principle and the universal quantum computer",1985-07-08
+n12,http://example.org/paper#W2897264299,Quantum internet: A vision for the road ahead,2018-10-18
+n13,http://example.org/paper#W1969546033,Deterministic quantum teleportation of atomic qubits,2004-06-01
+n14,http://example.org/paper#W2054388650,Conditional Quantum Dynamics and Logic Gates,1995-05-15
+n15,http://example.org/paper#W1563040068,Optics and interferometry with atoms and molecules,2009-07-28
+n16,http://example.org/paper#W1981983416,Advances in quantum metrology,2011-03-31
+n17,http://example.org/paper#W2028212109,Perfect State Transfer in Quantum Spin Networks,2004-05-04
+n18,http://example.org/paper#W2154564336,The capacity of the quantum channel with general signal states,1998-01-01
+n19,http://example.org/paper#W1967673033,Photonic quantum technologies,2009-11-30
+n20,http://example.org/paper#W1530682388,Quantum Measurement and Control,2009-11-12
+n21,http://example.org/paper#W1979029367,Quantum nature of a strongly coupled single quantum dot–cavity system,2007-01-28
+n22,http://example.org/paper#W2038645424,Quantum discord for two-qubit systems,2008-04-03
+n23,http://example.org/paper#W1983655155,Quantum Communication through an Unmodulated Spin Chain,2003-11-10
+n24,http://example.org/paper#W4231127907,Quantum coding,1995-04-01
+n25,http://example.org/paper#W1490521149,Demonstrating the viability of universal quantum computation using teleportation and single-qubit operations,1999-11-01
+n26,http://example.org/paper#W2063519529,Entanglement-based quantum communication over 144 km,2007-06-03
+n27,http://example.org/paper#W1607705556,Experimental entanglement of four particles,2000-03-01
+n28,http://example.org/paper#W1984021697,Quantum error correction for quantum memories,2015-04-07
+n29,http://example.org/paper#W1988134541,Secure quantum key distribution,2014-07-31
+n30,http://example.org/paper#W2142739935,Quantum information with continuous variables,2005-06-29
+n31,http://example.org/paper#W2042474962,Error Correcting Codes in Quantum Theory,1996-07-29
+n32,http://example.org/paper#W3103096722,Integrated photonic quantum technologies,2019-10-21
+n33,http://example.org/paper#W1993248778,Two-bit gates are universal for quantum computation,1995-02-01
+n34,http://example.org/paper#W2219888606,Near-optimal single-photon sources in the solid state,2016-03-07
+n35,http://example.org/paper#W2990961515,Quantum Computation and Quantum Information,2012-06-05
+n36,http://example.org/paper#W1970006170,Unconditional Security of Quantum Key Distribution over Arbitrarily Long Distances,1999-03-26
+n37,http://example.org/paper#W1988633556,Efficient Scheme for Two-Atom Entanglement and Quantum Information Processing in Cavity QED,2000-09-11
+n38,http://example.org/paper#W2158605123,The Physical Implementation of Quantum Computation,2000-09-01
+n39,http://example.org/paper#W2054265686,Quantum Register Based on Individual Electronic and Nuclear Spin Qubits in Diamond,2007-05-31
+n40,http://example.org/paper#W2147574419,Coupling superconducting qubits via a cavity bus,2007-09-01
+n41,http://example.org/paper#W1968850365,Superconducting quantum circuits at the surface code threshold for fault tolerance,2014-04-01
+n42,http://example.org/paper#W2144965412,Continuous-variable optical quantum-state tomography,2009-03-16
+n43,http://example.org/paper#W3103869002,The nitrogen-vacancy colour centre in diamond,2013-03-04
+n44,http://example.org/paper#W2074333174,Necessary and Sufficient Condition for Nonzero Quantum Discord,2010-11-02
+n45,http://example.org/paper#W2102008187,Elementary gates for quantum computation,1995-11-01
+n46,http://example.org/paper#W3099200606,Quantum Chemistry in the Age of Quantum Computing,2019-08-30
+n47,http://example.org/paper#W2145486367,Silica-on-Silicon Waveguide Quantum Circuits,2008-03-27
+n48,http://example.org/paper#W2015275764,Multiphoton entanglement and interferometry,2012-05-11
+n49,http://example.org/paper#W2001619599,Sending classical information via noisy quantum channels,1997-07-01
+n50,http://example.org/paper#W1977148550,Quantum key distribution using gaussian-modulated coherent states,2003-01-01
+n51,http://example.org/paper#W1999664967,Quantum-Enhanced Measurements: Beating the Standard Quantum Limit,2004-11-18
+n52,http://example.org/paper#W2131245179,High-sensitivity diamond magnetometer with nanoscale resolution,2008-09-14
+n53,http://example.org/paper#W2032147770,Quantum computing with realistically noisy devices,2005-03-01
+n54,http://example.org/paper#W2798434869,Supervised learning with quantum-enhanced feature spaces,2019-03-13
+n55,http://example.org/paper#W2093475321,Entangled states of trapped atomic ions,2008-06-01
+n56,http://example.org/paper#W2060887031,Mixed-state entanglement and quantum error correction,1996-11-01
+n57,http://example.org/paper#W2109741106,Quantum algorithms revisited,1998-01-08
+n58,http://example.org/paper#W2024622260,Indistinguishable photons from a single-photon device,2002-10-01
+n59,http://example.org/paper#W2129606687,Quantum interface between light and atomic ensembles,2010-04-05
+n60,http://example.org/paper#W276931850,Quantum fields in curved space,1984-01-01
+n61,http://example.org/paper#W2108067022,Manipulating the Quantum State of an Electrical Circuit,2002-05-03
+n62,http://example.org/paper#W2047131277,Optical Quantum Computing,2007-12-06
+n63,http://example.org/paper#W2983536868,Introductory Quantum Optics,2004-10-28
+n64,http://example.org/paper#W3037737784,Quantum entanglement,2009-06-17
+n65,http://example.org/paper#W1839785972,Stabilizer Codes and Quantum Error Correction,1997-05-28
+n66,http://example.org/paper#W3008629526,Advances in quantum cryptography,2020-02-27
+n67,http://example.org/paper#W2035993353,A One-Way Quantum Computer,2001-05-28
+n68,http://example.org/paper#W2125164517,Quantum computing with trapped ions,2008-10-01
+n69,http://example.org/paper#W1963919378,A subfemtotesla multichannel atomic magnetometer,2003-04-01
+n70,http://example.org/paper#W2032282864,Deterministic quantum teleportation with atoms,2004-06-01
+n71,http://example.org/paper#W1514675880,Linear optical quantum computing with photonic qubits,2007-01-24
+n72,http://example.org/paper#W1966533239,Demonstration of a Fundamental Quantum Logic Gate,1995-12-18
+n73,http://example.org/paper#W1994917526,Universal Computation by Quantum Walk,2009-05-04
+n74,http://example.org/paper#W2132764286,The quantum internet,2008-06-01
+n75,http://example.org/paper#W1977670750,Observation of Three-Photon Greenberger-Horne-Zeilinger Entanglement,1999-02-15
+n76,http://example.org/paper#W3037776276,Quantum communication,2007-03-01
+n77,http://example.org/paper#W2037522026,Manipulating quantum entanglement with atoms and photons in a cavity,2001-08-28
+n78,http://example.org/paper#W1999706070,Scheme for reducing decoherence in quantum computer memory,1995-10-01
+n79,http://example.org/paper#W2095410318,Heralded entanglement between solid-state qubits separated by three metres,2013-04-23
+n80,http://example.org/paper#W2119046658,"Introduction to quantum noise, measurement, and amplification",2010-04-15
+n81,http://example.org/paper#W2048639010,"Kitaev-Heisenberg Model on a Honeycomb Lattice: Possible Exotic Phases in Iridium Oxides<mml:math xmlns:mml=""http://www.w3.org/1998/Math/MathML"" display=""inline""><mml:msub><mml:mi>A</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>IrO</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:math>",2010-07-09
+n82,http://example.org/paper#W2781738013,Quantum Computing in the NISQ era and beyond,2018-08-06
+n83,http://example.org/paper#W2790388700,Quantum circuit learning,2018-09-10
+n84,http://example.org/paper#W2488446542,Chiral quantum optics,2017-01-01
+n85,http://example.org/paper#W2072456425,“Two-Photon” Coincidence Imaging with a Classical Source,2002-08-26
+n86,http://example.org/paper#W2086947442,Quantum repeaters based on atomic ensembles and linear optics,2011-03-21
+n87,http://example.org/paper#W2763302490,Theory of quantum error-correcting codes,1997-02-01
+n88,http://example.org/paper#W2767966692,Quantum metrology with nonclassical states of atomic ensembles,2018-09-05
+n89,http://example.org/paper#W2144056677,Quantum entanglement between an optical photon and a solid-state spin qubit,2010-08-01
+n90,http://example.org/paper#W2092105345,Quantum Repeaters: The Role of Imperfect Local Operations in Quantum Communication,1998-12-28
+n91,http://example.org/paper#W1995672555,Quantum dynamics of single trapped ions,2003-03-10
+n92,http://example.org/paper#W1993122650,QUANTUM ESTIMATION FOR QUANTUM TECHNOLOGY,2009-01-01
+n93,http://example.org/paper#W1970948459,Gaussian quantum information,2012-05-01
+n94,http://example.org/paper#W4389703832,Introductory Quantum Optics,2023-11-30
+n95,http://example.org/paper#W1623920228,Experimental quantum teleportation,1997-12-01
+n96,http://example.org/paper#W2273682834,Fundamental limits of repeaterless quantum communications,2017-04-26
+n97,http://example.org/paper#W2017077355,Quantum State Transfer and Entanglement Distribution among Distant Nodes in a Quantum Network,1997-04-21
+n98,http://example.org/paper#W2141878472,Nitrogen-Vacancy Centers in Diamond: Nanoscale Sensors for Physics and Biology,2013-11-26
+n99,http://example.org/paper#W2729982732,On-chip generation of high-dimensional entangled quantum states and their coherent control,2017-06-01
+n100,http://example.org/paper#W2019112050,Quantum Games and Quantum Strategies,1999-10-11
