@@ -127,6 +127,7 @@ This part of the project tried to understand the links and trends between the nu
 # Limitations & Future Work
 
 - **API Constraints:** The OpenAlex API imposes rate limits, meaning full-scale data acquisition can be time-consuming, yet it is to have all the details of the dataset you work on to correctly produce the edges files.
+- - **Limited data:** The OpenAlex API request "counts_by_year", which gives the detailed citation number per year of a paper is quiete limited as it only goes back to maximum 2013. Without it, the analysis wouldn't be correct, since only using the "final" citation count of a paper, wouldn't make us able to compare it fairly with the weight of a pair of concepts in 2010 and 2015 for instance, since the citation count would be from 2025.
 - **Subset Analysis:** The current workflow is based on a subset (~26,000 papers); scaling up to the entire field will require a lot more run time.
 - **Concept Hierarchy:** The analysis depends on the granularity and quality of the OpenAlex concept hierarchy; refining concept selection or integrating other ontologies could improve result as the current one's aren't always the soundest.
 - **Further Metrics:** Future work may include more advanced network metrics, machine learning for trend prediction, or even analysis of triples instead of pairs.
