@@ -94,3 +94,50 @@ Future work could leverage:
 
 
 </details>
+
+
+<details>
+<summary>
+Mervat's Contribution => Citation and Weight comparaison
+</summary>
+
+# Brief Overview
+
+This part of the project tried to understand the links and trends between the number of citations and the number of papers (weights) for pairs of concepts, that are found in the same paper in a yealy manner.
+
+
+---
+
+# Work Accomplished
+
+- **Analysis:** Construction of yearly concept co-occurrence graphs, calculation of citation-enriched edge lists, and extraction of metrics such as growth rates, newcomers, and productivity patterns.
+- **Visualization:** Generation of figures illustrating key relationships (e.g., superlinear scaling between co-occurrence and citations), citations per article, and time evolution for selected concept pairs.
+
+---
+
+# Results (Key Findings)
+
+- **Superlinear Scaling:** The number of citations for a concept pair increases slightly more than proportionally with the number of co-mentioning articles (slope ≈ 1.10 in log-log regression), indicating a superlinear relationship.
+- **No Critical Mass Effect:** Average citations per article remain nearly constant regardless of the pair's total article count, suggesting increased total citations arise from accumulation rather than increased per-paper impact.
+- **Growth & Emergence:** The pipeline identifies rapidly growing and "newcomer" concept pairs, highlighting emerging areas of research and shifts in topic prominence within the field.
+- **Temporal Proximity:** The Adamic-Adar index enables tracking of how closely related two concepts become over time, providing insights into evolving topic relationships.
+
+---
+
+# Limitations & Future Work
+
+- **API Constraints:** The OpenAlex API imposes rate limits, meaning full-scale data acquisition can be time-consuming, yet it is to have all the details of the dataset you work on to correctly produce the edges files.
+- **Subset Analysis:** The current workflow is based on a subset (~26,000 papers); scaling up to the entire field will require a lot more run time.
+- **Concept Hierarchy:** The analysis depends on the granularity and quality of the OpenAlex concept hierarchy; refining concept selection or integrating other ontologies could improve result as the current one's aren't always the soundest.
+- **Further Metrics:** Future work may include more advanced network metrics, machine learning for trend prediction, or even analysis of triples instead of pairs.
+
+---
+
+# References & Acknowledgements
+
+**Codebase Inspiration** based on the work of David Dosu from the Quantum Institute of CERN, and the work of Thomas Maillart and Thibault Chataing [wazaahhh/breakthroughs](https://github.com/wazaahhh/breakthroughs/).
+
+---
+
+
+</details>
